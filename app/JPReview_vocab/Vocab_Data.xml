@@ -1367,10 +1367,375 @@
 	<!-- 第１週４日の終わり -->
 
 	<!-- 第１週５日の初め -->
-	<lesson no="1">
-		<yomi>みなと</yomi>
-		<kaki>港</kaki>
-		<meaning>a port</meaning>
+	<lesson no="">
+		<yomi>かいすいよくにいく</yomi>
+		<kaki>海水浴に行く</kaki>
+		<meaning>go swimming in the ocean</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にっこうよくをする</yomi>
+		<kaki>日光浴をする</kaki>
+		<meaning>sunbathe, stay in the sun</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たいようのひかりをあびる</yomi>
+		<kaki>太陽の光を浴びる</kaki>
+		<meaning>sunbathe, stay in the sun</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゃわーをあびる</yomi>
+		<kaki>シャワーを浴びる</kaki>
+		<meaning>take a shower</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひやけする</yomi>
+		<kaki>日焼けする</kaki>
+		<meaning>get a suntan</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はだ</yomi>
+		<kaki>肌</kaki>
+		<meaning>texture, skin</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まっくらな</yomi>
+		<kaki>真っ暗な</kaki>
+		<meaning>pitch-dark</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はだがまっくろになる</yomi>
+		<kaki>肌が真っ黒になる</kaki>
+		<meaning>be tanned (almost) black</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まっくろな</yomi>
+		<kaki>真っ黒な</kaki>
+		<meaning>pitch black</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さんぐらすをはずす</yomi>
+		<kaki>サングラスを外す</kaki>
+		<meaning>take off one's sunglasses</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はずす</yomi>
+		<kaki>外す</kaki>
+		<meaning>take off</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぼたんをはずす</yomi>
+		<kaki>ボタンを外す</kaki>
+		<meaning>unbutton</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さんぐらすのあとがついている</yomi>
+		<kaki>サングラスのあとがついている</kaki>
+		<meaning>get a tan mark from one's sunglasses</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あせ</yomi>
+		<kaki>汗</kaki>
+		<meaning>sweat</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あせをかく</yomi>
+		<kaki>汗をかく</kaki>
+		<meaning>sweat</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うみにもぐる</yomi>
+		<kaki>海に潜る</kaki>
+		<meaning>dive into the ocean</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おぼれる</yomi>
+		<kaki>溺れる</kaki>
+		<meaning>(almost)drown</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つかむ</yomi>
+		<kaki>つかむ</kaki>
+		<meaning>grab</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ろーぷをつかむ</yomi>
+		<kaki>ロープをつかむ</kaki>
+		<meaning>grab a rope</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ろーぷにつかまる</yomi>
+		<kaki>ろーぷにつかまる</kaki>
+		<meaning>hang onto a rope</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つかまえる</yomi>
+		<kaki>捕まえる</kaki>
+		<meaning>catch</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つかまる</yomi>
+		<kaki>捕まる</kaki>
+		<meaning>be caught</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さかなをつかまえる</yomi>
+		<kaki>魚を捕まえる</kaki>
+		<meaning>catch fish</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さかながつかまる</yomi>
+		<kaki>魚が捕まる</kaki>
+		<meaning>fish be caught</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つる</yomi>
+		<kaki>釣る</kaki>
+		<meaning>to fish/catch</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つる</yomi>
+		<kaki>吊る</kaki>
+		<meaning>to hang, to put up</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+
+	<lesson no="">
+		<yomi>さかなをつる</yomi>
+		<kaki>魚を釣る</kaki>
+		<meaning>fish</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たなをつる</yomi>
+		<kaki>棚を吊る</kaki>
+		<meaning>put up a shelf</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あみ</yomi>
+		<kaki>網</kaki>
+		<meaning>net</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひっかかる</yomi>
+		<kaki>引っかかる</kaki>
+		<meaning>to be caught in, to be stuck in</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さかながあみにひっかかる</yomi>
+		<kaki>魚が網に引っかかる</kaki>
+		<meaning>catch fish with the net</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さぎ</yomi>
+		<kaki>詐欺</kaki>
+		<meaning>cheating, trick</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さぎにひっかかる</yomi>
+		<kaki>詐欺に引っかかる</kaki>
+		<meaning>get conned</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひっかける</yomi>
+		<kaki>引っかける</kaki>
+		<meaning>to hang (something) on (something)</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さかなをひっかける</yomi>
+		<kaki>魚を引っかける</kaki>
+		<meaning>hook the fish</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ボートをこぐ</yomi>
+		<kaki>ボートをこぐ</kaki>
+		<meaning>row a boat</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じてんしゃをこぐ</yomi>
+		<kaki>自転車をこぐ</kaki>
+		<meaning>pedal a bicycle</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ボートがひっくりかえる</yomi>
+		<kaki>ボートがひっくり返る</kaki>
+		<meaning>a boat is tipped over</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ボートをひっくりかえす</yomi>
+		<kaki>ボートをひっくり返す</kaki>
+		<meaning>overturn the boat</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ボートのゆくえ</yomi>
+		<kaki>ボートの行方</kaki>
+		<meaning>the place where the boat is</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆくえふめい</yomi>
+		<kaki>行方不明</kaki>
+		<meaning>being missing</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きし</yomi>
+		<kaki>岸</kaki>
+		<meaning>bank, coast, shore</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふねをきしにちがづける</yomi>
+		<kaki>船を岸に近づける</kaki>
+		<meaning>take a boat into the shore</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さめ</yomi>
+		<kaki>鮫</kaki>
+		<meaning>shark</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さめがちかづく</yomi>
+		<kaki>鮫が近づく</kaki>
+		<meaning>a shark comes close</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さめがちかよる</yomi>
+		<kaki>鮫が近寄る</kaki>
+		<meaning>a shark comes close</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あちこちへいく</yomi>
+		<kaki>あちこちへ行く</kaki>
+		<meaning>go all over the place</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あちらこちらへいく</yomi>
+		<kaki>あちらこちらへ行く</kaki>
+		<meaning>go all over the place</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うまい</yomi>
+		<kaki>うまい</kaki>
+		<meaning>delicious</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まずい</yomi>
+		<kaki>まずい</kaki>
+		<meaning>unpleasant (taste, appearance, situation)</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>えさ</yomi>
+		<kaki>えさ</kaki>
+		<meaning>feed, bait</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>どろぼう</yomi>
+		<kaki>泥棒</kaki>
+		<meaning>robber, theft</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふりこみ</yomi>
+		<kaki>振り込み</kaki>
+		<meaning>bank transfer</meaning>
 		<week>1</week>
 		<day>5</day>
 	</lesson>
