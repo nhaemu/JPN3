@@ -1548,6 +1548,13 @@
 		<day>5</day>
 	</lesson>
 	<lesson no="">
+		<yomi>やさしい</yomi>
+		<kaki>易しい</kaki>
+		<meaning>easy</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
 		<yomi>ゆうせん</yomi>
 		<kaki>優先</kaki>
 		<meaning>priority</meaning>
@@ -1735,6 +1742,27 @@
 		<kaki>譲り</kaki>
 		<meaning>Inheritance, something given or received/ give sth over
 		</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じゆうせき</yomi>
+		<kaki>自由席</kaki>
+		<meaning>freely usable seat</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぶんかつばらい</yomi>
+		<kaki>分割払い</kaki>
+		<meaning>paid in installment</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いっかつばらい</yomi>
+		<kaki>一括払い</kaki>
+		<meaning>paid all at once</meaning>
 		<week>1</week>
 		<day>5</day>
 	</lesson>
@@ -2119,4 +2147,119 @@
 		<day>6</day>
 	</lesson>
 	<!-- 第１週６日の終わり -->
+	
+	<!-- 第１週extraの初め -->
+	<lesson no="">
+		<yomi>かんばん</yomi>
+		<kaki>看板</kaki>
+		<meaning>a signboard</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんびょう</yomi>
+		<kaki>看病</kaki>
+		<meaning>nursing</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんごし</yomi>
+		<kaki>看護師</kaki>
+		<meaning>a nurse</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いた</yomi>
+		<kaki>板</kaki>
+		<meaning>a board</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こくばん</yomi>
+		<kaki>黒板</kaki>
+		<meaning>a blackboard</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あんないばん</yomi>
+		<kaki>案内板</kaki>
+		<meaning>a notice board</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はね</yomi>
+		<kaki>羽</kaki>
+		<meaning>a feather, wing</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はね</yomi>
+		<kaki>羽根</kaki>
+		<meaning>a shuttlecock</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うもう</yomi>
+		<kaki>羽毛</kaki>
+		<meaning>feathering/down</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なる</yomi>
+		<kaki>成る</kaki>
+		<meaning>to become, to grow</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいぶん</yomi>
+		<kaki>成分</kaki>
+		<meaning>an ingredient/ a constituent</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいじんしき</yomi>
+		<kaki>成人式</kaki>
+		<meaning>a coming-of-age ceremony</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>だい～</yomi>
+		<kaki>第～</kaki>
+		<meaning>number...</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そうごうびょういん</yomi>
+		<kaki>総合病院</kaki>
+		<meaning>a general hospital</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そうけい</yomi>
+		<kaki>総計</kaki>
+		<meaning>the total</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そうごうあんないじょ</yomi>
+		<kaki>総合案内所</kaki>
+		<meaning>general information place</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<!-- 第１週extraの終わり -->
 </class>

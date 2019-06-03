@@ -51,7 +51,7 @@ public class Test {
 			Display display = new Display();
 
 			Shell shell = new Shell(display, SWT.SHELL_TRIM & (~SWT.RESIZE & ~SWT.MIN & ~SWT.MAX));
-			shell.setSize(300, 500);
+			shell.setSize(400, 500);
 
 			GridLayout layout = new GridLayout(1, true);
 			shell.setLayout(layout);

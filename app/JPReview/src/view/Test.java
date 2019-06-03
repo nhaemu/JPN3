@@ -87,7 +87,7 @@ public class Test {
 			weekCombo.select(0);
 
 			Combo dayCombo = new Combo(dayGroup, SWT.READ_ONLY);
-			dayCombo.setItems(new String[] { "1", "2", "3", "4", "5", "6" });
+			dayCombo.setItems(new String[] { "1", "2", "3", "4", "5", "6", "extra" });
 			dayCombo.select(0);
 
 			weekCombo.pack();
