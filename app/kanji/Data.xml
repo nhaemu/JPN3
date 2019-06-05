@@ -1797,6 +1797,27 @@
 		<day>6</day>
 	</lesson>
 	<lesson no="">
+		<yomi>ちょすい</yomi>
+		<kaki>貯水</kaki>
+		<meaning>Dam</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たまる</yomi>
+		<kaki>貯まる</kaki>
+		<meaning>to be saved up (e.g. money)</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ためる</yomi>
+		<kaki>貯める</kaki>
+		<meaning>to save (e.g. in a bank)</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
 		<yomi>つつむ</yomi>
 		<kaki>包む</kaki>
 		<meaning>wrap</meaning>
@@ -1807,6 +1828,13 @@
 		<yomi>つつみ</yomi>
 		<kaki>包み</kaki>
 		<meaning>Bundle, package</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かかえる</yomi>
+		<kaki>抱える</kaki>
+		<meaning>to hold or carry under or in the arms</meaning>
 		<week>1</week>
 		<day>6</day>
 	</lesson>
@@ -1900,6 +1928,13 @@
 		<meaning>To deposit</meaning>
 		<week>1</week>
 		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あずかる</yomi>
+		<kaki>預かる</kaki>
+		<meaning>to be entrusted with, to receive on deposit</meaning>
+		<week>1</week>
+		<day>7</day>
 	</lesson>
 	<lesson no="">
 		<yomi>はつ</yomi>
