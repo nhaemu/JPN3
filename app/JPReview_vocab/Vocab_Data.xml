@@ -1743,12 +1743,513 @@
 	<!-- 第１週５日の終わり -->
 	<!-- 第１週６日の始め -->
 	<lesson no="">
-		<yomi>ゆうびん</yomi>
-		<kaki>郵便</kaki>
-		<meaning>mail (service)</meaning>
+		<yomi>おろす</yomi>
+		<kaki>下ろす</kaki>
+		<meaning>withdraw some money from one's bank</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひきだす</yomi>
+		<kaki>引き出す</kaki>
+		<meaning>withdraw some money from one's bank</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あずける</yomi>
+		<kaki>預ける</kaki>
+		<meaning>put money in a bank account</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じどうでひきおとされる</yomi>
+		<kaki>自動で引き落とされる</kaki>
+		<meaning>be paid by automatic bank transfer</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じゅぎょうりょう</yomi>
+		<kaki>授業料</kaki>
+		<meaning>tuition fee</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じゅぎょうりょうをはらいこむ</yomi>
+		<kaki>授業料を払い込む</kaki>
+		<meaning>pay tuition fees with a bank transfer</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やちんをふりこむ</yomi>
+		<kaki>家賃を振り込む</kaki>
+		<meaning>transfer a monthly rent</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふりこみ</yomi>
+		<kaki>振込</kaki>
+		<meaning>bank transfer</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しはらい</yomi>
+		<kaki>支払い</kaki>
+		<meaning>payment</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうきょうりょうきん</yomi>
+		<kaki>公共料金</kaki>
+		<meaning>public utility charges</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうきょうりょうきんをはらう</yomi>
+		<kaki>公共料金を払う</kaki>
+		<meaning>pay the public utility charges</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>てすうりょう</yomi>
+		<kaki>手数料</kaki>
+		<meaning>handling charges, commission</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>てすうりょうがかかる</yomi>
+		<kaki>手数料がかかる</kaki>
+		<meaning>a charge is levied</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅうにゅう</yomi>
+		<kaki>収入</kaki>
+		<meaning>income, revenue</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ししゅつ</yomi>
+		<kaki>支出</kaki>
+		<meaning>expenses</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あかじ</yomi>
+		<kaki>赤字</kaki>
+		<meaning>deficit, the red</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くろじ</yomi>
+		<kaki>黒字</kaki>
+		<meaning>surplus, the black/ Balance(figure) in the black</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>がいしょくする</yomi>
+		<kaki>外食する</kaki>
+		<meaning>eat out</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じすいする</yomi>
+		<kaki>自炊する</kaki>
+		<meaning>cook one's own meals</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たかくつく</yomi>
+		<kaki>高くつく</kaki>
+		<meaning>be costly</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>えいようがかたよる</yomi>
+		<kaki>栄養がかたよる</kaki>
+		<meaning>one's diet becomes unbalanced</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>バランスがとれたしょくじ</yomi>
+		<kaki>バランスが取れた食事</kaki>
+		<meaning>a balanced meal</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふそくする</yomi>
+		<kaki>不足する</kaki>
+		<meaning>run out</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいかつひがふそくする</yomi>
+		<kaki>生活費が不足する</kaki>
+		<meaning>run out of spending money</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せつやく</yomi>
+		<kaki>節約</kaki>
+		<meaning>economize, save</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょくひをせつやくする</yomi>
+		<kaki>食費を節約する</kaki>
+		<meaning>economize on food expenses</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つりあう</yomi>
+		<kaki>つりあう</kaki>
+		<meaning>to balance, to be harmony, to suit</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅうにゅうにつりあうせいかつ</yomi>
+		<kaki>収入につりあう生活</kaki>
+		<meaning>affordable lifestyle</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぜいたくをする</yomi>
+		<kaki>ぜいたくをする</kaki>
+		<meaning>to live in luxury</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むだづかいをする</yomi>
+		<kaki>むだづかいをする</kaki>
+		<meaning>waste money</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むだをはぶく</yomi>
+		<kaki>むだを省く</kaki>
+		<meaning></meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>済み</yomi>
+		<kaki>すみ</kaki>
+		<meaning>settle, complete</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こぜに</yomi>
+		<kaki>小銭</kaki>
+		<meaning>coin</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいきゅうしょ</yomi>
+		<kaki>請求書</kaki>
+		<meaning>bill</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しへい</yomi>
+		<kaki>紙幣</kaki>
+		<meaning>cash bill</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おさつ</yomi>
+		<kaki>お札</kaki>
+		<meaning>cash bill</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>よゆう</yomi>
+		<kaki>余裕</kaki>
+		<meaning>margin, time, scope</meaning>
 		<week>1</week>
 		<day>6</day>
 	</lesson>
 
 	<!-- 第１週６日の終わり -->
+	
+	<!--　第２週１日の初め -->
+	<lesson no="">
+		<yomi>ろうじんホーム</yomi>
+		<kaki>老人ホーム</kaki>
+		<meaning>a nursing home</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ホームヘルパー</yomi>
+		<kaki>ホームヘルパー</kaki>
+		<meaning>a helper</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ごがくがっこう</yomi>
+		<kaki>語学学校</kaki>
+		<meaning>language school</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうし</yomi>
+		<kaki>講師</kaki>
+		<meaning>teacher</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じむいん</yomi>
+		<kaki>事務員</kaki>
+		<meaning>a clerk</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>フリーター</yomi>
+		<kaki>フリーター</kaki>
+		<meaning>one whose livelihood is provided by part-time work</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅうしょくする</yomi>
+		<kaki>就職する</kaki>
+		<meaning>get a job</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅうしょくかつどう</yomi>
+		<kaki>就職活動</kaki>
+		<meaning>job hunting</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きゅうじんじょうほう</yomi>
+		<kaki>求人情報</kaki>
+		<meaning>job information</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>りれきしょをかく</yomi>
+		<kaki>履歴書を書く</kaki>
+		<meaning>prepare resume</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねんれいせいげんがある</yomi>
+		<kaki>年齢制限がある</kaki>
+		<meaning>has an age-limit</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けいけんをとわない</yomi>
+		<kaki>経験を問わない</kaki>
+		<meaning>no previous experiences are required</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やとう</yomi>
+		<kaki>やとう</kaki>
+		<meaning>employ</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さいようする</yomi>
+		<kaki>採用する</kaki>
+		<meaning>employ</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひとで</yomi>
+		<kaki>人手</kaki>
+		<meaning>manpower</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひとでがふそくしている</yomi>
+		<kaki>人手が不足している</kaki>
+		<meaning>lack of manpower</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいしゃいん</yomi>
+		<kaki>正社員</kaki>
+		<meaning>permanent position</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいしゃいんをぼしゅうする</yomi>
+		<kaki>正社員を募集する</kaki>
+		<meaning>advertise a permanent position</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はけんしゃいん</yomi>
+		<kaki>派遣社員</kaki>
+		<meaning>agency temp</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はけんしゃいんにとうろくする</yomi>
+		<kaki>派遣社員に登録する</kaki>
+		<meaning>register as an agency temp</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～にといあわせる</yomi>
+		<kaki>～に問い合わせる</kaki>
+		<meaning>ask about ～</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たずねる</yomi>
+		<kaki>たずねる</kaki>
+		<meaning>inquire</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きがるに</yomi>
+		<kaki>気軽に</kaki>
+		<meaning>feel free, freely</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きんちょうする</yomi>
+		<kaki>緊張する</kaki>
+		<meaning>nervous</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>めんせつ</yomi>
+		<kaki>面接</kaki>
+		<meaning>interview</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>めんせつできんちょうする</yomi>
+		<kaki>面接で緊張する</kaki>
+		<meaning>get nervous at a job interview</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふさわしいふくそう</yomi>
+		<kaki>ふさわしい服装</kaki>
+		<meaning>proper outfit</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>めんせつにふさわしいふくそう</yomi>
+		<kaki>面接にふさわしい服装</kaki>
+		<meaning>proper outfit for a job interview</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>８じかんきんむ</yomi>
+		<kaki>８時間勤務</kaki>
+		<meaning>an 8-hour shift</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じきゅうではたらく</yomi>
+		<kaki>時給で働く</kaki>
+		<meaning>work for an hourly wage</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうつうひがしきゅうされる</yomi>
+		<kaki>交通費が支給される</kaki>
+		<meaning>be reimbursed for one's transportation costs</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おかねをかせぐ</yomi>
+		<kaki>お金をかせぐ</kaki>
+		<meaning>work for one's living, make money</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おかねをもうける</yomi>
+		<kaki>お金をもうける</kaki>
+		<meaning>make a profit, make a good bargain</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>みせがもうかる</yomi>
+		<kaki>店がもうかる</kaki>
+		<meaning>the store makes a lot of profit</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうたいする</yomi>
+		<kaki>招待する</kaki>
+		<meaning>invite</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+
+	<!--第第２週１日の終わり -->
 </class>
