@@ -1,6 +1,605 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class>
+	<!-- 第１の初め -->
+	<lesson no="1">
+		<yomi>おしらせ</yomi>
+		<kaki>お知らせ</kaki>
+		<meaning>notice, announcement</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="2">
+		<yomi>じんざい</yomi>
+		<kaki>人材</kaki>
+		<meaning>employees, staff, human resources</meaning>
+		<explanation>働く人</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="3">
+		<yomi>もとめる</yomi>
+		<kaki>求める</kaki>
+		<meaning>to seek, to want</meaning>
+		<explanation>を～</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="4">
+		<yomi>かいてん（する）</yomi>
+		<kaki>開店（する）</kaki>
+		<meaning>opening a store (to open a store)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="5">
+		<yomi>へいてん（する）</yomi>
+		<kaki>閉店（する）</kaki>
+		<meaning>closing a store (to close a store)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="6">
+		<yomi>ぎょうむ</yomi>
+		<kaki>業務</kaki>
+		<meaning>duty, responsibility</meaning>
+		<explanation>仕事（やらなければならない）</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="7">
+		<yomi>はんばい（する）</yomi>
+		<kaki>販売（する）</kaki>
+		<meaning>selling, sales (to sell)</meaning>
+		<explanation>売る「うる」</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="8">
+		<yomi>せいそう（する）</yomi>
+		<kaki>清掃（する）</kaki>
+		<meaning>cleaning (to clean)</meaning>
+		<explanation>掃除する「そうじする」</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="9">
+		<yomi>こくせき</yomi>
+		<kaki>国籍</kaki>
+		<meaning>nationality</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="10">
+		<yomi>やるきがある</yomi>
+		<kaki>やる気がある</kaki>
+		<meaning>to be motivated</meaning>
+		<explanation>used with ある、ない、出ない</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="11">
+		<yomi>だいかんげい</yomi>
+		<kaki>大歓迎</kaki>
+		<meaning>very much welcomed</meaning>
+		<explanation>歓迎会＝welcome party</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="12">
+		<yomi>せっきゃく（する）</yomi>
+		<kaki>接客（する）</kaki>
+		<meaning>customer service (to serve customers)</meaning>
+		<explanation>接する「せっする」＝communicate</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="13">
+		<yomi>おうたい（する）</yomi>
+		<kaki>応対（する）</kaki>
+		<meaning>dealing with (to deal with)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="14">
+		<yomi>～か</yomi>
+		<kaki>～可</kaki>
+		<meaning>can～</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="15">
+		<yomi>きゅうよ</yomi>
+		<kaki>給与</kaki>
+		<meaning>pay, salary, wage</meaning>
+		<explanation>給＝あげる</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="16">
+		<yomi>こうりょ（する）</yomi>
+		<kaki>考慮（する）</kaki>
+		<meaning>consideration(to take into consideration)</meaning>
+		<explanation>考える</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="17">
+		<yomi>おうふく（する）</yomi>
+		<kaki>往復（する）</kaki>
+		<meaning>round trip(to go somewhere round trip)</meaning>
+		<explanation>行く　↔　帰る</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="18">
+		<yomi>しきゅう（する）</yomi>
+		<kaki>支給（する）</kaki>
+		<meaning>provision (to provide)</meaning>
+		<explanation>払う　(salary, fee, bonus, etc.)</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="19">
+		<yomi>しょてい</yomi>
+		<kaki>所定</kaki>
+		<meaning>prescribed, certain</meaning>
+		<explanation>～のフォーム/用紙、きまているもの</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="20">
+		<yomi>しょるいしんさ</yomi>
+		<kaki>書類審査</kaki>
+		<meaning>document screening</meaning>
+		<explanation>書類を見て選ぶ</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="21">
+		<yomi>じさん（する）</yomi>
+		<kaki>持参（する）</kaki>
+		<meaning>taking something (to take)</meaning>
+		<explanation>持って来る</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="22">
+		<yomi>いし</yomi>
+		<kaki>医師</kaki>
+		<meaning>doctor, physician</meaning>
+		<explanation>私が～です。</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="23">
+		<yomi>きゅうしん</yomi>
+		<kaki>休診</kaki>
+		<meaning>absence (of a doctor or physician)</meaning>
+		<explanation>医者が休む</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="24">
+		<yomi>かいそうこうじ</yomi>
+		<kaki>改装工事</kaki>
+		<meaning>remodeling work, renovation</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="25">
+		<yomi>さき</yomi>
+		<kaki>左記</kaki>
+		<meaning>written to the left</meaning>
+		<explanation>左に書いてある</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="26">
+		<yomi>かりてんぽ</yomi>
+		<kaki>仮店舗</kaki>
+		<meaning>temporary shop</meaning>
+		<explanation>店舗＝店</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="27">
+		<yomi>キャンペーン</yomi>
+		<kaki>キャンペーン</kaki>
+		<meaning>promotional/sales campaign</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="28">
+		<yomi>なまもの</yomi>
+		<kaki>生もの</kaki>
+		<meaning>raw food</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="29">
+		<yomi>てんけん（する）</yomi>
+		<kaki>点検（する）</kaki>
+		<meaning>inspection (to inspect)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="30">
+		<yomi>りんじきゅうぎょう</yomi>
+		<kaki>臨時休業</kaki>
+		<meaning>temporary closing</meaning>
+		<explanation>店、会社</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="31">
+		<yomi>きゅうぎょう（する）</yomi>
+		<kaki>休業（する）</kaki>
+		<meaning>closing a business (to close a business)</meaning>
+		<explanation>店、会社</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="32">
+		<yomi>ちゅうや</yomi>
+		<kaki>昼夜</kaki>
+		<meaning>day and night</meaning>
+		<explanation>朝晩「あさばん」</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="33">
+		<yomi>しんや</yomi>
+		<kaki>深夜</kaki>
+		<meaning>late at night</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="34">
+		<yomi>うむ</yomi>
+		<kaki>有無</kaki>
+		<meaning>presence, existence</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="35">
+		<yomi>ろうにゃくなんにょ</yomi>
+		<kaki>老若男女</kaki>
+		<meaning>old and young, men and women (any age or gender)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="36">
+		<yomi>しょくぎょう</yomi>
+		<kaki>職業</kaki>
+		<meaning>occupation, job</meaning>
+		<explanation>～に、お仕事、e.g.職業は会社員/エンジニア</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="37">
+		<yomi>がくれき</yomi>
+		<kaki>学歴</kaki>
+		<meaning>academic background/ education history</meaning>
+		<explanation>職歴「しょくれき」＝job background</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="38">
+		<yomi>かんしん</yomi>
+		<kaki>関心</kaki>
+		<meaning>interest (in something)</meaning>
+		<explanation>～がある/ない、～が持つ/持たない</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="39">
+		<yomi>つうじょう</yomi>
+		<kaki>通常</kaki>
+		<meaning>regular, normal</meaning>
+		<explanation>いつも</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="40">
+		<yomi>ていきょう（する）</yomi>
+		<kaki>提供（する）</kaki>
+		<meaning>offering, providing (to offer, provide)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="41">
+		<yomi>コーナー</yomi>
+		<kaki>コーナー</kaki>
+		<meaning>corner, section</meaning>
+		<explanation>売り場</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="42">
+		<yomi>しゅうい</yomi>
+		<kaki>周囲</kaki>
+		<meaning>surroundings</meaning>
+		<explanation>まわり</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="43">
+		<yomi>まんびき（する）</yomi>
+		<kaki>万引き（する）</kaki>
+		<meaning>shoplifting(to shoplift), steal low price goods in shop</meaning>
+		<explanation>盗む「ぬすむ」＝steal high price goods/money</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="44">
+		<yomi>うわき（する）</yomi>
+		<kaki>浮気（する）</kaki>
+		<meaning>cheating on someone (to cheat on someone)</meaning>
+		<explanation>ဖောက်ပြန်သည်</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="45">
+		<yomi>たんじゅんな</yomi>
+		<kaki>単純な</kaki>
+		<meaning>simple, mere</meaning>
+		<explanation>opposite- 複雑な「ふくざつな」</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="46">
+		<yomi>にせもの</yomi>
+		<kaki>偽物</kaki>
+		<meaning>counterfeit item, fake</meaning>
+		<explanation>opposite- 本物「ほんもの」＝real</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="47">
+		<yomi>しんねんかい</yomi>
+		<kaki>新年会</kaki>
+		<meaning>New Year's party</meaning>
+		<explanation>忘年会「ぼうねんかい」＝Year end party</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="48">
+		<yomi>ふくそう</yomi>
+		<kaki>服装</kaki>
+		<meaning>clothing</meaning>
+		<explanation>(clothes and accessaries) e.g.shoes, socks, hat, etc.</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="49">
+		<yomi>こころがける</yomi>
+		<kaki>心がける</kaki>
+		<meaning>to bear in mind</meaning>
+		<explanation>Vるようにいつも注意している</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="50">
+		<yomi>ようぼう</yomi>
+		<kaki>要望</kaki>
+		<meaning>request (to other)</meaning>
+		<explanation>希望「きぼう」＝my wish</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="51">
+		<yomi>てあて</yomi>
+		<kaki>手当て</kaki>
+		<meaning>allowance</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="52">
+		<yomi>へんびん（する）</yomi>
+		<kaki>返品（する）</kaki>
+		<meaning>returning an item (to return an item)</meaning>
+		<explanation>買ったものをお金で返る</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="53">
+		<yomi>はつげん（する）</yomi>
+		<kaki>発言（する）</kaki>
+		<meaning>statement (to state)</meaning>
+		<explanation>言葉を出す</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="54">
+		<yomi>せいう</yomi>
+		<kaki>晴雨</kaki>
+		<meaning>clear or rainy weather</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="55">
+		<yomi>（いけんを）まとめる</yomi>
+		<kaki>（意見を）まとめる</kaki>
+		<meaning>to summarize (one's opinion)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="56">
+		<yomi>きふ（する）</yomi>
+		<kaki>寄付（する）</kaki>
+		<meaning>contribution, donation (to contribute, donate)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="57">
+		<yomi>かんきょうおせん</yomi>
+		<kaki>環境汚染</kaki>
+		<meaning>environment pollution</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="58">
+		<yomi>おせん（する）</yomi>
+		<kaki>汚染（する）</kaki>
+		<meaning>pollution (to pollute)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="59">
+		<yomi>こううん</yomi>
+		<kaki>幸運</kaki>
+		<meaning>good luck, fortune</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="60">
+		<yomi>ふうりょくはつでん</yomi>
+		<kaki>風力発電</kaki>
+		<meaning>wind power</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="61">
+		<yomi>しぜんエネルギー</yomi>
+		<kaki>自然エネルギー</kaki>
+		<meaning>natural energy</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="62">
+		<yomi>しつぎょう（する）</yomi>
+		<kaki>失業（する）</kaki>
+		<meaning>losing a job (to lose a job)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="63">
+		<yomi>ふんしつ（する）</yomi>
+		<kaki>紛失（する）</kaki>
+		<meaning>loss of an object (to lose something)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="64">
+		<yomi>りちゃくりく</yomi>
+		<kaki>離着陸</kaki>
+		<meaning>taking off or landing</meaning>
+		<explanation>airplane, hot balloon, drone, helicopter</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="65">
+		<yomi>かさい</yomi>
+		<kaki>火災</kaki>
+		<meaning>fire (disaster)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="66">
+		<yomi>うてん</yomi>
+		<kaki>雨天</kaki>
+		<meaning>rainy weather</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="67">
+		<yomi>おくない</yomi>
+		<kaki>屋内</kaki>
+		<meaning>indoors</meaning>
+		<explanation>opposite- 屋外「おくがい」</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="68">
+		<yomi>パスワード</yomi>
+		<kaki>パスワード</kaki>
+		<meaning>password</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="69">
+		<yomi>ちゃくよう</yomi>
+		<kaki>着用（する）</kaki>
+		<meaning>wearing (to wear)</meaning>
+		<explanation>着る (clothes only)</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="70">
+		<yomi>ひじょうボタン</yomi>
+		<kaki>非常ボタン</kaki>
+		<meaning>emergency button</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="71">
+		<yomi>きげん</yomi>
+		<kaki>期限</kaki>
+		<meaning>deadline
+		</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="72">
+		<yomi>げんしゅ（する）</yomi>
+		<kaki>厳守（する）</kaki>
+		<meaning>compliance (to comply)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="73">
+		<yomi>がんしょ</yomi>
+		<kaki>願書</kaki>
+		<meaning>request form, application form (for school only)</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="74">
+		<yomi>まどぐち</yomi>
+		<kaki>窓口</kaki>
+		<meaning>counter, desk, liaison</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="75">
+		<yomi>ひっきようぐ</yomi>
+		<kaki>筆記用具</kaki>
+		<meaning>writing utensil</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="76">
+		<yomi>プールサイド</yomi>
+		<kaki>プールサイド</kaki>
+		<meaning>poolside</meaning>
+		<explanation></explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<lesson no="77">
+		<yomi>ぶんべつ（する）</yomi>
+		<kaki>分別（する）</kaki>
+		<meaning>discernment, judgement (to discern, judge)</meaning>
+		<explanation>used in ごみ</explanation>
+		<chapter>1</chapter>
+	</lesson>
+	<!-- 第１の終わり -->
 	<!-- 第２の初め -->
+	<lesson no="78">
+		<yomi>てんにん（する）</yomi>
+		<kaki>転任（する）</kaki>
+		<meaning>change of post (to change one's post)</meaning>
+		<explanation>same company but change in position/place</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="79">
+		<yomi>めいじる</yomi>
+		<kaki>命じる</kaki>
+		<meaning>to appoint, assign, order</meaning>
+		<explanation>めいれいする</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="80">
+		<yomi>いでんし</yomi>
+		<kaki>遺伝子</kaki>
+		<meaning>gene</meaning>
+		<explanation>DNA</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="81">
+		<yomi>かんげいかい</yomi>
+		<kaki>歓迎会</kaki>
+		<meaning>welcome party</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="82">
+		<yomi>みなおす</yomi>
+		<kaki>見直す</kaki>
+		<meaning>to review, reconsider</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="83">
+		<yomi>スパイス</yomi>
+		<kaki>スパイス</kaki>
+		<meaning>spice/spicy</meaning>
+		<explanation>スパイシー</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="84">
+		<yomi>でんしレンジ</yomi>
+		<kaki>電子レンジ</kaki>
+		<meaning>microwave oven</meaning>
+		<explanation>～を温めるもの</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="85">
+		<yomi>ジャケット</yomi>
+		<kaki>ジャケット</kaki>
+		<meaning>jacket</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+
 	<lesson no="121">
 		<yomi>しゅうへん</yomi>
 		<kaki>周辺</kaki>
@@ -212,6 +811,76 @@
 		<chapter>2</chapter>
 	</lesson>
 
+	<lesson no="171">
+		<yomi>きぎょうけんきゅう</yomi>
+		<kaki>企業研究</kaki>
+		<meaning>researching companies</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="172">
+		<yomi>パティシエ</yomi>
+		<kaki>パティシエ</kaki>
+		<meaning>pastry chef</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="173">
+		<yomi>コンテスト</yomi>
+		<kaki>コンテスト</kaki>
+		<meaning>contest</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="174">
+		<yomi>しゅつじょう（する）</yomi>
+		<kaki>出場（する）</kaki>
+		<meaning>entry(to enter)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="175">
+		<yomi>みつほしレストラン</yomi>
+		<kaki>三つ星レストラン</kaki>
+		<meaning>three-star restaurant</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="176">
+		<yomi>あつかう</yomi>
+		<kaki>扱う</kaki>
+		<meaning>to handle</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="177">
+		<yomi>きじつ</yomi>
+		<kaki>期日</kaki>
+		<meaning>deadline</meaning>
+		<explanation>いつまでするひ</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="178">
+		<yomi>まにあわせる</yomi>
+		<kaki>間に合わせる</kaki>
+		<meaning>to meet, be in time</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="179">
+		<yomi>ほこり</yomi>
+		<kaki>誇り</kaki>
+		<meaning>pride</meaning>
+		<explanation>ဂုဏ်</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="180">
+		<yomi>（ちからを）つくす</yomi>
+		<kaki>（力を）尽くす</kaki>
+		<meaning>to make a full effort</meaning>
+		<explanation>全部なくなるまで何かを出す</explanation>
+		<chapter>2</chapter>
+	</lesson>
 
 	<!-- 第２の終わり -->
 
