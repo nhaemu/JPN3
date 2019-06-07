@@ -599,7 +599,251 @@
 		<explanation></explanation>
 		<chapter>2</chapter>
 	</lesson>
-
+	<lesson no="86">
+		<yomi>にゅうか（する）</yomi>
+		<kaki>入荷（する）</kaki>
+		<meaning>arrival, receipt (to arrive, receive)</meaning>
+		<explanation>opposite- 出荷「しゅっか」、みせにしょうひんがとどく</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="87">
+		<yomi>ちょめいじん</yomi>
+		<kaki>著名人</kaki>
+		<meaning>celebrity</meaning>
+		<explanation>ゆうめいなひと</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="88">
+		<yomi>こうし</yomi>
+		<kaki>講師</kaki>
+		<meaning>instructor, teacher, lecturer</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="89">
+		<yomi>とうなんアジア</yomi>
+		<kaki>東南アジア</kaki>
+		<meaning>Southeast Asia</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="90">
+		<yomi>ごうりか</yomi>
+		<kaki>合理化</kaki>
+		<meaning>streamling</meaning>
+		<explanation>လျော့ချ</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="91">
+		<yomi>たすう</yomi>
+		<kaki>多数</kaki>
+		<meaning>many</meaning>
+		<explanation>たくさん</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="92">
+		<yomi>じゅうぎょういん</yomi>
+		<kaki>従業員</kaki>
+		<meaning>employee</meaning>
+		<explanation>社員、～の従業員</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="93">
+		<yomi>かいこ（する）</yomi>
+		<kaki>解雇（する）</kaki>
+		<meaning>dismissal (to dismiss)</meaning>
+		<explanation>会社は～、社員は解雇される</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="94">
+		<yomi>みとめる</yomi>
+		<kaki>認める</kaki>
+		<meaning>to accept, recognize</meaning>
+		<explanation>そのとおりです</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="95">
+		<yomi>そんけい（する）</yomi>
+		<kaki>尊敬（する）</kaki>
+		<meaning>respect (to respect)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="96">
+		<yomi>かいがん</yomi>
+		<kaki>海岸</kaki>
+		<meaning>coast</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="97">
+		<yomi>せいそう（する）</yomi>
+		<kaki>清掃（する）</kaki>
+		<meaning>cleaning (to clean)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="98">
+		<yomi>どうい（する）</yomi>
+		<kaki>同意（する）</kaki>
+		<meaning>consent (to consent)</meaning>
+		<explanation>おなじいけん</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="99">
+		<yomi>そふぼ</yomi>
+		<kaki>祖父母</kaki>
+		<meaning>grandparents</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="100">
+		<yomi>すいみん</yomi>
+		<kaki>睡眠</kaki>
+		<meaning>sleeping</meaning>
+		<explanation>眠っている「ねむっている」</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="101">
+		<yomi>じんざい</yomi>
+		<kaki>人材</kaki>
+		<meaning>employees, staff, human resources</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="102">
+		<yomi>かくほ（する）</yomi>
+		<kaki>確保（する）</kaki>
+		<meaning>getting, securing (to get, secure)</meaning>
+		<explanation>သူများယူမသွားအောင်ကာကွယ်</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="103">
+		<yomi>ちゅうしょうきぎょう</yomi>
+		<kaki>中小企業</kaki>
+		<meaning>small and medium sized enterprises (SMEs)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="104">
+		<yomi>はんざい</yomi>
+		<kaki>犯罪</kaki>
+		<meaning>crime</meaning>
+		<explanation>犯罪者「はんざいしゃ」＝culprit/criminal</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="105">
+		<yomi>ぼうし（する）</yomi>
+		<kaki>防止（する）</kaki>
+		<meaning>prevention (to prevent)</meaning>
+		<explanation>accident, fire, etc., 防ぐ「ふせぐ」</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="106">
+		<yomi>なんべい</yomi>
+		<kaki>南米</kaki>
+		<meaning>South America</meaning>
+		<explanation>北米「ほくべい」＝North America</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="107">
+		<yomi>みにつける</yomi>
+		<kaki>身につける</kaki>
+		<meaning>to learn, acquire; to put on (accessories)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="108">
+		<yomi>りょうこくかん</yomi>
+		<kaki>両国間</kaki>
+		<meaning>bilateral(literally 'between both countries')</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="109">
+		<yomi>かっぱつな</yomi>
+		<kaki>活発な</kaki>
+		<meaning>active, lively, vigorous</meaning>
+		<explanation>opposite- おとなしい＝obedient, quiet</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="110">
+		<yomi>くちごたえ（する）</yomi>
+		<kaki>口答え（する）</kaki>
+		<meaning>talking back(to talk back)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="111">
+		<yomi>ちっとも～ない</yomi>
+		<kaki>ちっとも～ない</kaki>
+		<meaning>not ~ at all</meaning>
+		<explanation>少しも～ない、ぜんぜん～ない</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="112">
+		<yomi>はんこう（する）</yomi>
+		<kaki>反抗（する）</kaki>
+		<meaning>rebellion (to rebel)</meaning>
+		<explanation>に～</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="113">
+		<yomi>しつれん（する）</yomi>
+		<kaki>失恋（する）</kaki>
+		<meaning>lost love (to lose a lover)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="114">
+		<yomi>めいっぱい</yomi>
+		<kaki>めいっぱい</kaki>
+		<meaning>with all one's might</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="115">
+		<yomi>おしゃれ（する）</yomi>
+		<kaki>おしゃれ（する）</kaki>
+		<meaning>style (to be stylish)</meaning>
+		<explanation>おしゃれなNoun</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="116">
+		<yomi>たいど</yomi>
+		<kaki>態度</kaki>
+		<meaning>attitude</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="117">
+		<yomi>ポイント</yomi>
+		<kaki>ポイント</kaki>
+		<meaning>point</meaning>
+		<explanation>本の大事なところ; 点</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="118">
+		<yomi>しゅうきょう</yomi>
+		<kaki>宗教</kaki>
+		<meaning>religion</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="119">
+		<yomi>てんぽ</yomi>
+		<kaki>店舗</kaki>
+		<meaning>shop</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="120">
+		<yomi>かいせつ（する）</yomi>
+		<kaki>開設（する）</kaki>
+		<meaning>setting up, establishment (to set up, establish)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
 	<lesson no="121">
 		<yomi>しゅうへん</yomi>
 		<kaki>周辺</kaki>
@@ -810,6 +1054,146 @@
 		<explanation></explanation>
 		<chapter>2</chapter>
 	</lesson>
+	<lesson no="151">
+		<yomi>ぜんてい</yomi>
+		<kaki>前提</kaki>
+		<meaning>assumption</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="152">
+		<yomi>こうさい（する）</yomi>
+		<kaki>交際（する）</kaki>
+		<meaning>going out with/dating someone(to go out, date)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="153">
+		<yomi>りえき</yomi>
+		<kaki>利益</kaki>
+		<meaning>profit</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="154">
+		<yomi>けいざいかつどう</yomi>
+		<kaki>経済活動</kaki>
+		<meaning>economic activity</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="155">
+		<yomi>さいよう（する）</yomi>
+		<kaki>採用（する）</kaki>
+		<meaning>hiring (to hire)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="156">
+		<yomi>キャプテン</yomi>
+		<kaki>キャプテン</kaki>
+		<meaning>captain</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="157">
+		<yomi>いちがんとなって</yomi>
+		<kaki>一丸となって</kaki>
+		<meaning>all together</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="158">
+		<yomi>おもいきり</yomi>
+		<kaki>思い切り</kaki>
+		<meaning>with all one's strength</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="159">
+		<yomi>かんとく</yomi>
+		<kaki>監督</kaki>
+		<meaning>coach, manager (sport); director (movie)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="160">
+		<yomi>とうしょ（する）</yomi>
+		<kaki>投書（する）</kaki>
+		<meaning>a letter (to submit a letter)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="161">
+		<yomi>こんちゅう</yomi>
+		<kaki>昆虫</kaki>
+		<meaning>insect</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="162">
+		<yomi>ファーブルこんちゅうき</yomi>
+		<kaki>ファーブル昆虫記</kaki>
+		<meaning>Souvenirs Entomologiques</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="163">
+		<yomi>しゅうにん（する）</yomi>
+		<kaki>就任（する）</kaki>
+		<meaning>taking a post (to take a post)</meaning>
+		<explanation>ရာထူးနေရာယူ</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="164">
+		<yomi>はってん（する）</yomi>
+		<kaki>発展（する）</kaki>
+		<meaning>growth (to grow)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="165">
+		<yomi>ノーベルしょう</yomi>
+		<kaki>ノーベル賞</kaki>
+		<meaning>Nobel Prize</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="166">
+		<yomi>じゅしょう（する）</yomi>
+		<kaki>受賞（する）</kaki>
+		<meaning>receiving a prize (to receive a prize)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="167">
+		<yomi>じゅけんせい</yomi>
+		<kaki>受験生</kaki>
+		<meaning>test taker</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="168">
+		<yomi>ちいきぐるみ</yomi>
+		<kaki>地域ぐるみ</kaki>
+		<meaning>involving the whole area/region</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="169">
+		<yomi>かいこう（する）</yomi>
+		<kaki>開港（する）</kaki>
+		<meaning>opening a port (to open a port)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="170">
+		<yomi>～しゅうねん</yomi>
+		<kaki>～周年</kaki>
+		<meaning>~anniversary</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
 
 	<lesson no="171">
 		<yomi>きぎょうけんきゅう</yomi>
@@ -881,8 +1265,503 @@
 		<explanation>全部なくなるまで何かを出す</explanation>
 		<chapter>2</chapter>
 	</lesson>
+	<lesson no="181">
+		<yomi>ぜいきん</yomi>
+		<kaki>税金</kaki>
+		<meaning>tax</meaning>
+		<explanation>税金を払う＝納める「おさめる」＝အခွန်ဆောင်သည်</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="182">
+		<yomi>あらそう</yomi>
+		<kaki>争う</kaki>
+		<meaning>to contest, dispute</meaning>
+		<explanation>を～</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="183">
+		<yomi>しょうがい</yomi>
+		<kaki>生涯</kaki>
+		<meaning>one's life</meaning>
+		<explanation>生まれるから死ぬまで, 人生「じんせい」＝human life</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="184">
+		<yomi>おえる</yomi>
+		<kaki>終える</kaki>
+		<meaning>to end</meaning>
+		<explanation>を～、が終わる</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="185">
+		<yomi>おふれる</yomi>
+		<kaki>おふれる</kaki>
+		<meaning>to overflow</meaning>
+		<explanation>が～</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="186">
+		<yomi>ぎょうせき</yomi>
+		<kaki>業績</kaki>
+		<meaning>business performance</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="187">
+		<yomi>しゅうにゅう</yomi>
+		<kaki>収入</kaki>
+		<meaning>income</meaning>
+		<explanation>支出「ししゅつ」＝outcome</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="188">
+		<yomi>げんしょう（する）</yomi>
+		<kaki>減少（する）</kaki>
+		<meaning>reduction(to reduce)</meaning>
+		<explanation>増加する「ぞうかする」</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="189">
+		<yomi>ちょきんがく</yomi>
+		<kaki>貯金額</kaki>
+		<meaning>savings</meaning>
+		<explanation>お金を貯める</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="190">
+		<yomi>ぞうか（する）</yomi>
+		<kaki>増加（する）</kaki>
+		<meaning>increase (to increase)</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="191">
+		<yomi>しんじつ</yomi>
+		<kaki>真実</kaki>
+		<meaning>reality, truth</meaning>
+		<explanation>本当</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="192">
+		<yomi>フリーソフト</yomi>
+		<kaki>フリーソフト</kaki>
+		<meaning>freeware</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="193">
+		<yomi>すぐれる</yomi>
+		<kaki>優れる</kaki>
+		<meaning>to be excellent or superior</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="194">
+		<yomi>こうねつ</yomi>
+		<kaki>高熱</kaki>
+		<meaning>a high fever</meaning>
+		<explanation>平熱「へいねつ」＝normal fever</explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="195">
+		<yomi>てんこう</yomi>
+		<kaki>天候</kaki>
+		<meaning>weather</meaning>
+		<explanation></explanation>
+		<chapter>2</chapter>
+	</lesson>
+	<lesson no="196">
+		<yomi>きそく</yomi>
+		<kaki>規則</kaki>
+		<meaning>rule</meaning>
+		<explanation>法律「ほうりつ」＝law</explanation>
+		<chapter>2</chapter>
+	</lesson>
 
 	<!-- 第２の終わり -->
+	<!-- 第３の初め -->
+	
+	<lesson no="197">
+		<yomi>いちいん</yomi>
+		<kaki>一員</kaki>
+		<meaning>one member</meaning>
+		<explanation>～の一員</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="198">
+		<yomi>こころがまえ</yomi>
+		<kaki>心構え</kaki>
+		<meaning>mental attitude</meaning>
+		<explanation>လိုက်နာမှတ်သား/ပြုမူဆောင်ရွက်</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="199">
+		<yomi>くじょう</yomi>
+		<kaki>苦情</kaki>
+		<meaning>complaint</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="200">
+		<yomi>しょり（する）</yomi>
+		<kaki>処理（する）</kaki>
+		<meaning>dealing with, handling (to deal with, handle)</meaning>
+		<explanation>complaintကိုပြေလည်အောင်ဖြေရှင်း</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="201">
+		<yomi>クレーム</yomi>
+		<kaki>クレーム</kaki>
+		<meaning>complaint; claim</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="202">
+		<yomi>せいとうな</yomi>
+		<kaki>正当な</kaki>
+		<meaning>justified</meaning>
+		<explanation>opposite- 不当な「ふとうな」</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="203">
+		<yomi>ふかいな</yomi>
+		<kaki>不快な</kaki>
+		<meaning>uncomfortable</meaning>
+		<explanation>opposite- 快い「こころよい」</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="204">
+		<yomi>しつ</yomi>
+		<kaki>質</kaki>
+		<meaning>quality</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="205">
+		<yomi>ついきゅう（する）</yomi>
+		<kaki>追求（する）</kaki>
+		<meaning>pursuit (to pursue)</meaning>
+		<explanation>seek, search, pursue (e.g.goal)</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="206">
+		<yomi>シンガポール</yomi>
+		<kaki>シンガポール</kaki>
+		<meaning>Singapore</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="207">
+		<yomi>だいり</yomi>
+		<kaki>代理</kaki>
+		<meaning>replacement, proxy</meaning>
+		<explanation>use in position</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="208">
+		<yomi>企業人</yomi>
+		<kaki>きぎょうじん</kaki>
+		<meaning>business person</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="209">
+		<yomi>じかく（する）</yomi>
+		<kaki>自覚（する）</kaki>
+		<meaning>self-awareness (to be aware)</meaning>
+		<explanation>自分で分かっている</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="210">
+		<yomi>サービスりょう</yomi>
+		<kaki>サービス料</kaki>
+		<meaning>service charges</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="211">
+		<yomi>こうれいしゃ</yomi>
+		<kaki>高齢者</kaki>
+		<meaning>elderly person</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="212">
+		<yomi>しんせい（する）</yomi>
+		<kaki>申請（する）</kaki>
+		<meaning>application (to apply)</meaning>
+		<explanation>申し込み、apply visa</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="213">
+		<yomi>にゅうかん</yomi>
+		<kaki>入館</kaki>
+		<meaning>Immigration Bureau of Japan</meaning>
+		<explanation>入国管理局「にゅうこくかんりきょく」</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="214">
+		<yomi>じっこうにうつす</yomi>
+		<kaki>実行に移す</kaki>
+		<meaning>to carry out</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="215">
+		<yomi>せっきん（する）</yomi>
+		<kaki>接近（する）</kaki>
+		<meaning>approaching (to approach) (e.g.airplane, 台風)</meaning>
+		<explanation>近づく「ちかづく」=to approach</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="216">
+		<yomi>やがいコンサート</yomi>
+		<kaki>野外コンサート</kaki>
+		<meaning>outdoor concert</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="217">
+		<yomi>めいれい（する）</yomi>
+		<kaki>命令（する）</kaki>
+		<meaning>order, command (to order, command)</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="218">
+		<yomi>したがう</yomi>
+		<kaki>従う</kaki>
+		<meaning>to follow, obey</meaning>
+		<explanation>に～、命令に従う</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="219">
+		<yomi>こくみんかんじょう</yomi>
+		<kaki>国民感情</kaki>
+		<meaning>the national mood</meaning>
+		<explanation>နိုင်ငံသားစိတ်ဓာတ်</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="220">
+		<yomi>ふせぐ</yomi>
+		<kaki>防ぐ</kaki>
+		<meaning>to avoid, prevent</meaning>
+		<explanation>を～、～にならないようにする</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="221">
+		<yomi>やまおく</yomi>
+		<kaki>山奥</kaki>
+		<meaning>deep in the mountains</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="222">
+		<yomi>～にめぐまれた</yomi>
+		<kaki>～に恵まれた</kaki>
+		<meaning>to be blessed with / have a lot of ~</meaning>
+		<explanation>恵む「めぐむ」＝to bless</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="223">
+		<yomi>たく</yomi>
+		<kaki>宅</kaki>
+		<meaning>home</meaning>
+		<explanation>家</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="224">
+		<yomi>さっこん</yomi>
+		<kaki>昨今</kaki>
+		<meaning>nowadays</meaning>
+		<explanation>このごろ、最近</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="225">
+		<yomi>しゅうしょくなん</yomi>
+		<kaki>就職難</kaki>
+		<meaning>scarcity of jobs</meaning>
+		<explanation>အလုပ်ရှား/ခက်ခဲ</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="226">
+		<yomi>（しごとに）つく</yomi>
+		<kaki>（仕事に）就く</kaki>
+		<meaning>to get a job</meaning>
+		<explanation>仕事が見つかる</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="227">
+		<yomi>みりょく</yomi>
+		<kaki>魅力</kaki>
+		<meaning>appeal</meaning>
+		<explanation>ဆွဲဆောင်မှု, used with がある/がない</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="228">
+		<yomi>あぶらえ</yomi>
+		<kaki>油絵</kaki>
+		<meaning>oil painting</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="229">
+		<yomi>さいのう</yomi>
+		<kaki>才能</kaki>
+		<meaning>talent</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="230">
+		<yomi>げんかい</yomi>
+		<kaki>限界</kaki>
+		<meaning>limit</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="231">
+		<yomi>やりがいがある</yomi>
+		<kaki>やりがいがある</kaki>
+		<meaning>rewarding</meaning>
+		<explanation>အကျိုးရှိ/တန်ဖိုးရှိ</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="232">
+		<yomi>みため</yomi>
+		<kaki>見た目</kaki>
+		<meaning>appearance</meaning>
+		<explanation>အပြင်ပန်း,အမြင်</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="233">
+		<yomi>ぜんりょく</yomi>
+		<kaki>全力</kaki>
+		<meaning>full effort</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="234">
+		<yomi>たたかう</yomi>
+		<kaki>戦う</kaki>
+		<meaning>to try hard, to fight</meaning>
+		<explanation>戦い　＜名詞＞</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="235">
+		<yomi>しゅつえんしゃ</yomi>
+		<kaki>出演者</kaki>
+		<meaning>performer, cast member</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="236">
+		<yomi>わだいになる</yomi>
+		<kaki>話題になる</kaki>
+		<meaning>to get in the news</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="237">
+		<yomi>ユーフォー</yomi>
+		<kaki>ユーフォー</kaki>
+		<meaning>UFO</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="238">
+		<yomi>とくしゅう</yomi>
+		<kaki>特集</kaki>
+		<meaning>feature article/ specific programme topic</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="239">
+		<yomi>きょうみぶかい</yomi>
+		<kaki>興味深い</kaki>
+		<meaning>deeply interesting</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="240">
+		<yomi>はいりょ（する）</yomi>
+		<kaki>配慮（する）</kaki>
+		<meaning>consideration(to be considerate)</meaning>
+		<explanation>～を考える</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="241">
+		<yomi>こっせつ（する）</yomi>
+		<kaki>骨折（する）</kaki>
+		<meaning>breaking a bone (to break a bone)</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="242">
+		<yomi>あくよう（する）</yomi>
+		<kaki>悪用（する）</kaki>
+		<meaning>malicious use (to use maliciously)</meaning>
+		<explanation>တလွဲသုံး</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="243">
+		<yomi>さぎ</yomi>
+		<kaki>詐欺</kaki>
+		<meaning>fraud</meaning>
+		<explanation>လိမ်လည်</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="244">
+		<yomi>あっか（する）</yomi>
+		<kaki>悪化（する）</kaki>
+		<meaning>worsening(to become worse)</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="245">
+		<yomi>にぎわう</yomi>
+		<kaki>にぎわう</kaki>
+		<meaning>to be lively, bustle</meaning>
+		<explanation>にぎやかになる</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="246">
+		<yomi>デビュー（する）</yomi>
+		<kaki>デビュー（する）</kaki>
+		<meaning>debut (to debut)</meaning>
+		<explanation>始めて何かをする</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="247">
+		<yomi>じょゆう</yomi>
+		<kaki>女優</kaki>
+		<meaning>actress</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="248">
+		<yomi>しあげる</yomi>
+		<kaki>仕上げる</kaki>
+		<meaning>to finish up</meaning>
+		<explanation>を～、～が仕上がる</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="249">
+		<yomi>あまえる</yomi>
+		<kaki>甘える</kaki>
+		<meaning>to be coddled</meaning>
+		<explanation>ပူစာ</explanation>
+		<chapter>3</chapter>
+	</lesson>
 
 
+	<!-- 第３の終わり -->
+	<!-- 第４の初め -->
+	<lesson no="250">
+		<yomi></yomi>
+		<kaki></kaki>
+		<meaning></meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<!-- 第４の終わり -->
 </class>
