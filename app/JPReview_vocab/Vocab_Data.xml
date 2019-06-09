@@ -2251,5 +2251,299 @@
 		<day>1</day>
 	</lesson>
 
-	<!--第第２週１日の終わり -->
+	<!--第２週１日の終わり -->
+	<!-- 第２週２日の初め -->
+	<lesson no="">
+		<yomi>じょうし</yomi>
+		<kaki>上司</kaki>
+		<meaning>boss</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぶか</yomi>
+		<kaki>部下</kaki>
+		<meaning>subordinate</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぶちょう</yomi>
+		<kaki>部長</kaki>
+		<meaning>a (department) manager</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かちょう</yomi>
+		<kaki>課長</kaki>
+		<meaning>a (section) chief</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんぱい</yomi>
+		<kaki>先輩</kaki>
+		<meaning>one's senior</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうはい</yomi>
+		<kaki>後輩</kaki>
+		<meaning>one's junior</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>どうりょう</yomi>
+		<kaki>同僚</kaki>
+		<meaning>colleague</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しごとなかま</yomi>
+		<kaki>仕事仲間</kaki>
+		<meaning>colleague</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>だいきぎょうにしゅうしょくする</yomi>
+		<kaki>大企業に就職する</kaki>
+		<meaning>get a job in a big company</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しがつににゅうしゃする</yomi>
+		<kaki>四月に入社する</kaki>
+		<meaning>join a company in April</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんにゅうしゃいん</yomi>
+		<kaki>新入社員</kaki>
+		<meaning>a new employee</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>わがしゃのじょししゃいん</yomi>
+		<kaki>我が社の女子社員</kaki>
+		<meaning>female staff in our company</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんぱいにおそわる</yomi>
+		<kaki>先輩に教わる</kaki>
+		<meaning>learn from the more experienced members of the staff</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんぱいをみならう</yomi>
+		<kaki>先輩を見習う</kaki>
+		<meaning>follow the example of the more experienced staff</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そうたいする</yomi>
+		<kaki>早退する</kaki>
+		<meaning>go home early</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちこくする</yomi>
+		<kaki>遅刻する</kaki>
+		<meaning>be late</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きゅうけいする</yomi>
+		<kaki>休憩する</kaki>
+		<meaning>take a break</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やすみをとる</yomi>
+		<kaki>休みを取る</kaki>
+		<meaning>take a holiday</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きゅうかをとる</yomi>
+		<kaki>休暇を取る</kaki>
+		<meaning>take a holiday</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆうきゅうきゅうか</yomi>
+		<kaki>有給休暇</kaki>
+		<meaning>paid leave</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せきをはずす</yomi>
+		<kaki>席を外す</kaki>
+		<meaning>leave one's desk</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やりがいのあるしごと</yomi>
+		<kaki>やりがいのある仕事</kaki>
+		<meaning>a challenging job</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しごとがいきがいだ</yomi>
+		<kaki>仕事が生きがいだ</kaki>
+		<meaning>I live for my work</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やすむまがない</yomi>
+		<kaki>休む間がない</kaki>
+		<meaning>never have time to rest</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>からだがもたない</yomi>
+		<kaki>体がもたない</kaki>
+		<meaning>can't keep this pace up</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やるきがない</yomi>
+		<kaki>やる気がない</kaki>
+		<meaning>have no motivation/drive</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やるきがでない</yomi>
+		<kaki>やる気が出ない</kaki>
+		<meaning>not get motivated</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぐあいがわるいふりをする</yomi>
+		<kaki>具合が悪いふりをする</kaki>
+		<meaning>pretend to feel sick</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しごとをなまける</yomi>
+		<kaki>仕事を怠ける</kaki>
+		<meaning>neglect one's work</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しごとをさぼる</yomi>
+		<kaki>仕事をサボる</kaki>
+		<meaning>neglect one' work</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なまけもの</yomi>
+		<kaki>怠け者</kaki>
+		<meaning>a lazy person</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はたらきもの</yomi>
+		<kaki>働き者</kaki>
+		<meaning>a hardworking person</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しごとでミスをする</yomi>
+		<kaki>仕事でミスをする</kaki>
+		<meaning>make mistakes at work</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちこくのいいわけをする</yomi>
+		<kaki>遅刻の言い訳をする</kaki>
+		<meaning>make excuses for being late</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じょうしにゴマをする</yomi>
+		<kaki>上司にゴマをする</kaki>
+		<meaning>butter up the boss</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おせじをいう</yomi>
+		<kaki>おせじを言う</kaki>
+		<meaning>flatter someone</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちょういそがしい</yomi>
+		<kaki>超忙しい</kaki>
+		<meaning>extremely busy</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+
+	<!-- 第２週２日の終わり -->
+	
+	<!-- 第２週３日のはじめ -->
+	<lesson no="">
+		<yomi>かいぎがながひく</yomi>
+		<kaki>会議が長引く</kaki>
+		<meaning>the meeting is prolonged</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいぎのじゅんびをする</yomi>
+		<kaki>会議の準備をする</kaki>
+		<meaning>prepare for the meeting</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ミーティングのじゅんびをする</yomi>
+		<kaki>ミーティングの準備をする</kaki>
+		<meaning>prepare for the meeting</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi></yomi>
+		<kaki></kaki>
+		<meaning></meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+
+	<!-- 第２週３日の終わり -->
 </class>
