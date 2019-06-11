@@ -51,7 +51,7 @@ public class Test {
 			Display display = new Display();
 
 			Shell shell = new Shell(display, SWT.SHELL_TRIM & (~SWT.RESIZE & ~SWT.MIN & ~SWT.MAX));
-			shell.setSize(300, 500);
+			shell.setSize(800, 500);
 
 			GridLayout layout = new GridLayout(1, true);
 			shell.setLayout(layout);
@@ -61,7 +61,7 @@ public class Test {
 			Rectangle rect = shell.getBounds();
 
 			int x = bounds.x + (bounds.width - rect.width) / 2;
-			int y = bounds.y + (bounds.height - rect.height) / 2;
+			int y = bounds.y + (bounds.height - rect.height) / 3;
 
 			shell.setLocation(x, y);
 
