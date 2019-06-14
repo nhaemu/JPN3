@@ -1759,9 +1759,59 @@
 	<lesson no="250">
 		<yomi>かいじょう</yomi>
 		<kaki>海上</kaki>
-		<meaning></meaning>
+		<meaning>on the ocean</meaning>
 		<explanation></explanation>
 		<chapter>3</chapter>
 	</lesson>
+	<lesson no="251">
+		<yomi>きあつ</yomi>
+		<kaki>気圧</kaki>
+		<meaning>air pressure</meaning>
+		<explanation>水圧「すいあつ」=water pressure,圧力「あつりょく」＝pressure</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="252">
+		<yomi>ヘクトパスカル</yomi>
+		<kaki>ヘクトパスカル</kaki>
+		<meaning>hectopascal</meaning>
+		<explanation>air pressure unit</explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="253">
+		<yomi>さいだいしゅんかんふうそく</yomi>
+		<kaki>最大瞬間風速</kaki>
+		<meaning>maximum wind speed</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="254">
+		<yomi>ぼうふういき</yomi>
+		<kaki>暴風域</kaki>
+		<meaning>storm area</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="255">
+		<yomi>こうはんい</yomi>
+		<kaki>広範囲</kaki>
+		<meaning>wide range</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="256">
+		<yomi>えんがん</yomi>
+		<kaki>沿岸</kaki>
+		<meaning>coast</meaning>
+		<explanation></explanation>
+		<chapter>3</chapter>
+	</lesson>
+	<lesson no="257">
+		<yomi>せっきん（する）</yomi>
+		<kaki>接近（する）</kaki>
+		<meaning>approaching(to approach)</meaning>
+		<explanation>近くに来る</explanation>
+		<chapter>3</chapter>
+	</lesson>
+
 	<!-- 第４の終わり -->
 </class>

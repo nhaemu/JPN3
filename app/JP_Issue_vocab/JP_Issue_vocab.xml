@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<lesson no="">
+		<yomi>はいけい</yomi>
+		<kaki>背景</kaki>
+		<meaning>background</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>ようけん</yomi>
+		<kaki>要件</kaki>
+		<meaning>Requirement</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>しよう</yomi>
+		<kaki>仕様</kaki>
+		<meaning>specification</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅうせいかしょ</yomi>
+		<kaki>修正箇所</kaki>
+		<meaning>Modification place</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅうせいたいしょ</yomi>
+		<kaki>修正対象</kaki>
+		<meaning>Target of correction</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>へんこうないよう</yomi>
+		<kaki>変更内容</kaki>
+		<meaning>Contents of change</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>こうしん</yomi>
+		<kaki>更新</kaki>
+		<meaning>update</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>しょり</yomi>
+		<kaki>処理</kaki>
+		<meaning>processing</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅとくする</yomi>
+		<kaki>取得する</kaki>
+		<meaning>get</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>れつ</yomi>
+		<kaki>列</kaki>
+		<meaning>Column</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>とうろく</yomi>
+		<kaki>登録</kaki>
+		<meaning>Registration</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>いち</yomi>
+		<kaki>位置</kaki>
+		<meaning>position</meaning>
+	</lesson>
+
+
+</class>
