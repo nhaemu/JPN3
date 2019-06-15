@@ -3,7 +3,11 @@ package view;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -38,7 +42,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		try {
-			File inputFile = new File("Data.xml");
+			File inputFile = new File("JP_Issue_vocab.xml");
 
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -65,33 +69,33 @@ public class Test {
 
 			shell.setLocation(x, y);
 
-			Composite weekNDays = new Composite(shell, SWT.NONE);
-			weekNDays.setLayout(new GridLayout(2, true));
-			weekNDays.setLayoutData(new GridData(GridData.FILL_HORIZONTAL));
-
-			GridLayout groupLayout = new GridLayout();
-			groupLayout.marginHeight = 10;
-
-			Group weekGroup = new Group(weekNDays, SWT.NONE);
-			weekGroup.setLayout(groupLayout);
-			weekGroup.setLayoutData(new GridData(GridData.FILL_HORIZONTAL));
-			weekGroup.setText("Choose Week");
-
-			Group dayGroup = new Group(weekNDays, SWT.NONE);
-			dayGroup.setLayout(groupLayout);
-			dayGroup.setLayoutData(new GridData(GridData.FILL_HORIZONTAL));
-			dayGroup.setText("Choose Day");
-
-			Combo weekCombo = new Combo(weekGroup, SWT.READ_ONLY | SWT.NONE);
-			weekCombo.setItems(new String[] { "1", "2", "3", "4", "5", "6" });
-			weekCombo.select(0);
-
-			Combo dayCombo = new Combo(dayGroup, SWT.READ_ONLY);
-			dayCombo.setItems(new String[] { "1", "2", "3", "4", "5", "6", "extra" });
-			dayCombo.select(0);
-
-			weekCombo.pack();
-			dayCombo.pack();
+//			Composite weekNDays = new Composite(shell, SWT.NONE);
+//			weekNDays.setLayout(new GridLayout(2, true));
+//			weekNDays.setLayoutData(new GridData(GridData.FILL_HORIZONTAL));
+//
+//			GridLayout groupLayout = new GridLayout();
+//			groupLayout.marginHeight = 10;
+//
+//			Group weekGroup = new Group(weekNDays, SWT.NONE);
+//			weekGroup.setLayout(groupLayout);
+//			weekGroup.setLayoutData(new GridData(GridData.FILL_HORIZONTAL));
+//			weekGroup.setText("Choose Week");
+//
+//			Group dayGroup = new Group(weekNDays, SWT.NONE);
+//			dayGroup.setLayout(groupLayout);
+//			dayGroup.setLayoutData(new GridData(GridData.FILL_HORIZONTAL));
+//			dayGroup.setText("Choose Day");
+//
+//			Combo weekCombo = new Combo(weekGroup, SWT.READ_ONLY | SWT.NONE);
+//			weekCombo.setItems(new String[] { "1", "2", "3", "4", "5", "6" });
+//			weekCombo.select(0);
+//
+//			Combo dayCombo = new Combo(dayGroup, SWT.READ_ONLY);
+//			dayCombo.setItems(new String[] { "1", "2", "3", "4", "5", "6", "extra" });
+//			dayCombo.select(0);
+//
+//			weekCombo.pack();
+//			dayCombo.pack();
 
 			// Button startButton = new Button(shell, SWT.NONE);
 			// startButton.setText("Start");
@@ -115,30 +119,30 @@ public class Test {
 			// treeColumn1.setText("");
 			// treeColumn1.setWidth(130);
 
-			weekCombo.addSelectionListener(new SelectionListener() {
-
-				@Override
-				public void widgetSelected(SelectionEvent arg0) {
-
-					populateData(nodeList, weekCombo, dayCombo, wordList);
-				}
-
-				@Override
-				public void widgetDefaultSelected(SelectionEvent arg0) {
-				}
-			});
-
-			dayCombo.addSelectionListener(new SelectionListener() {
-
-				@Override
-				public void widgetSelected(SelectionEvent arg0) {
-					populateData(nodeList, weekCombo, dayCombo, wordList);
-				}
-
-				@Override
-				public void widgetDefaultSelected(SelectionEvent arg0) {
-				}
-			});
+//			weekCombo.addSelectionListener(new SelectionListener() {
+//
+//				@Override
+//				public void widgetSelected(SelectionEvent arg0) {
+//
+//					populateData(nodeList, weekCombo, dayCombo, wordList);
+//				}
+//
+//				@Override
+//				public void widgetDefaultSelected(SelectionEvent arg0) {
+//				}
+//			});
+//
+//			dayCombo.addSelectionListener(new SelectionListener() {
+//
+//				@Override
+//				public void widgetSelected(SelectionEvent arg0) {
+//					populateData(nodeList, weekCombo, dayCombo, wordList);
+//				}
+//
+//				@Override
+//				public void widgetDefaultSelected(SelectionEvent arg0) {
+//				}
+//			});
 
 			// startButton.addListener(SWT.Selection, new Listener() {
 			//
@@ -156,7 +160,7 @@ public class Test {
 			// item.setText(wordList.get(i).getWord());
 			// }
 
-			populateData(nodeList, weekCombo, dayCombo, wordList);
+			populateData(nodeList, wordList);
 
 			shell.layout();
 			shell.open();
@@ -178,11 +182,8 @@ public class Test {
 		}
 	}
 
-	private static void populateData(NodeList nodeList, Combo weekCombo, Combo dayCombo, List<Word> wordList) {
+	private static void populateData(NodeList nodeList, List<Word> wordList) {
 		wordList.clear();
-
-		int weekIndex = weekCombo.getSelectionIndex();
-		int dayIndex = dayCombo.getSelectionIndex();
 
 		for (int i = 0; i < nodeList.getLength(); i++) {
 			Node node = nodeList.item(i);
@@ -190,22 +191,20 @@ public class Test {
 			if (node.getNodeType() == Node.ELEMENT_NODE) {
 				Element e = (Element) node;
 
-				if (String.valueOf(weekIndex + 1).equals(e.getElementsByTagName("week").item(0).getTextContent())
-						&& String.valueOf(dayIndex + 1)
-								.equals(e.getElementsByTagName("day").item(0).getTextContent())) {
 					Word w = new Word();
 					w.setWord(e.getElementsByTagName("kaki").item(0).getTextContent());
 					w.setValue(e.getElementsByTagName("yomi").item(0).getTextContent());
 					w.setValue(e.getElementsByTagName("meaning").item(0).getTextContent());
 
 					wordList.add(w);
-				}
 			}
 		}
 
 		for (TreeItem item : tree.getItems()) {
 			item.dispose();
 		}
+		
+		wordList = wordList.stream().sorted(Comparator.comparing(Word::getWord)).collect(Collectors.toList());
 		for (int i = 0; i < wordList.size(); i++) {
 
 			TreeItem item = new TreeItem(tree, 0);
