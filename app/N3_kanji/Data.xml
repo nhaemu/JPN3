@@ -1,0 +1,6732 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<!-- 第１週の初め -->
+	<lesson no="">
+		<yomi>ちゅうしゃじょう</yomi>
+		<kaki>駐車場</kaki>
+		<meaning>Car Parking</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なーい/む</yomi>
+		<kaki>無</kaki>
+		<meaning></meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むきゅう</yomi>
+		<kaki>無休</kaki>
+		<meaning>working without holiday</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+		<lesson no="">
+		<yomi>ゆうきゅう</yomi>
+		<kaki>有休</kaki>
+		<meaning>working with holiday</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むりょう</yomi>
+		<kaki>無料</kaki>
+		<meaning>no charge</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むりな</yomi>
+		<kaki>無理な</kaki>
+		<meaning>မျဖစ္နုိင္ေသာ</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ない</yomi>
+		<kaki>無い</kaki>
+		<meaning>မရွိေသာ</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まん</yomi>
+		<kaki>満</kaki>
+		<meaning>full</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まんしゃ</yomi>
+		<kaki>満車</kaki>
+		<meaning>full of car</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くうしゃ</yomi>
+		<kaki>空車</kaki>
+		<meaning>no full of car</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まんいん</yomi>
+		<kaki>満員</kaki>
+		<meaning>full of people</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふまんな</yomi>
+		<kaki>不満な</kaki>
+		<meaning>dissatisfied</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まんぞく</yomi>
+		<kaki>満足</kaki>
+		<meaning>satisfied</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+		<lesson no="">
+		<yomi>まんげつ</yomi>
+		<kaki>満月</kaki>
+		<meaning>satisfied</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>む/こう</yomi>
+		<kaki>向</kaki>
+		<meaning>direct/forward</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むこう</yomi>
+		<kaki>向こう</kaki>
+		<meaning>over there</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほうこう</yomi>
+		<kaki>方向</kaki>
+		<meaning>direction</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むかう</yomi>
+		<kaki>向かう</kaki>
+		<meaning>go forward</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～むき</yomi>
+		<kaki>～向き</kaki>
+		<meaning>being suitable for ～</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きんし</yomi>
+		<kaki>禁止</kaki>
+		<meaning>prohibition</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんしん</yomi>
+		<kaki>関心</kaki>
+		<meaning>interest</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんする</yomi>
+		<kaki>関する</kaki>
+		<meaning>be related</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けい/かかり</yomi>
+		<kaki>係</kaki>
+		<meaning></meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんけい</yomi>
+		<kaki>関係</kaki>
+		<meaning>a relation/connection</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+		<lesson no="">
+		<yomi>むかんけい</yomi>
+		<kaki>無関係</kaki>
+		<meaning>no relation/no connection</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かかりいん</yomi>
+		<kaki>係員</kaki>
+		<meaning>a person in charge</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>だん/ことわーる</yomi>
+		<kaki>断</kaki>
+		<meaning>permission</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ことわる</yomi>
+		<kaki>断る</kaki>
+		<meaning>refuse</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むだん</yomi>
+		<kaki>無断</kaki>
+		<meaning>without permission</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>だんすい</yomi>
+		<kaki>断水</kaki>
+		<meaning>suspension of the water supply</meaning>
+		<week>1</week>
+		<day>1</day>
+	</lesson>
+	<!-- 第１週１日の終わり -->
+	<!-- 第１週２日の始め -->
+	<lesson no="">
+		<yomi>よこ</yomi>
+		<kaki>横</kaki>
+		<meaning>side</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おうだん</yomi>
+		<kaki>横断</kaki>
+		<meaning>crossing</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おうだんほどう</yomi>
+		<kaki>横断歩道</kaki>
+		<meaning>pedestrain crossing</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おす</yomi>
+		<kaki>押す</kaki>
+		<meaning>push</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おしいれ</yomi>
+		<kaki>押し入れ</kaki>
+		<meaning>sliding-door closet</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おさえる</yomi>
+		<kaki>押さえる</kaki>
+		<meaning>hold down</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おしボタンしき</yomi>
+		<kaki>押しボタン式</kaki>
+		<meaning>push button</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にゅうがくしき</yomi>
+		<kaki>入学式</kaki>
+		<meaning>entrance ceremony</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すうしき</yomi>
+		<kaki>数式</kaki>
+		<meaning>numerical fomula</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そうしん</yomi>
+		<kaki>送信</kaki>
+		<meaning>transmission</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんじる</yomi>
+		<kaki>信じる</kaki>
+		<meaning>believe</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じしん</yomi>
+		<kaki>自信</kaki>
+		<meaning>confidence</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんよう</yomi>
+		<kaki>信用</kaki>
+		<meaning>trust</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんごう</yomi>
+		<kaki>信号</kaki>
+		<meaning>signal, traffic light</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～ごうしゃ</yomi>
+		<kaki>～号車</kaki>
+		<meaning>carriage number</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たし/かく</yomi>
+		<kaki>確</kaki>
+		<meaning></meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいかくな</yomi>
+		<kaki>正確な</kaki>
+		<meaning>correct, accurate</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たしかな</yomi>
+		<kaki>確かな</kaki>
+		<meaning>certain</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たしかめる</yomi>
+		<kaki>確かめる</kaki>
+		<meaning>confirm,verify</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>みとーめる/にん</yomi>
+		<kaki>認</kaki>
+		<meaning></meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かくにん</yomi>
+		<kaki>確認</kaki>
+		<meaning>confirmation</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>みとめる</yomi>
+		<kaki>認める</kaki>
+		<meaning>admit, approve</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とぶ</yomi>
+		<kaki>飛ぶ</kaki>
+		<meaning>fly</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひこうき</yomi>
+		<kaki>飛行機</kaki>
+		<meaning>aiplane</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひこうじょう</yomi>
+		<kaki>飛行場</kaki>
+		<meaning>airport</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とびだす</yomi>
+		<kaki>飛び出す</kaki>
+		<meaning>jump in</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さゆう</yomi>
+		<kaki>左右</kaki>
+		<meaning>left and right</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あんぜん</yomi>
+		<kaki>安全</kaki>
+		<meaning>safety</meaning>
+		<week>1</week>
+		<day>2</day>
+	</lesson>
+	<!-- 第１週２日の終わり -->
+	
+	<!-- 第１週３日の初め -->
+	<lesson no="">
+		<yomi>ひじょうの</yomi>
+		<kaki>非常の</kaki>
+		<meaning>emergency</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひじょうに</yomi>
+		<kaki>非常に</kaki>
+		<meaning>extermely</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひじょうぐち</yomi>
+		<kaki>非常口</kaki>
+		<meaning>emergency exit</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にちじょうの</yomi>
+		<kaki>日常の</kaki>
+		<meaning>usual, everyday</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいじょうな</yomi>
+		<kaki>正常な</kaki>
+		<meaning>normal</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～かい</yomi>
+		<kaki>～階</kaki>
+		<meaning>floor</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいだん</yomi>
+		<kaki>階段</kaki>
+		<meaning>stairs</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はこ</yomi>
+		<kaki>箱</kaki>
+		<meaning>box</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゴミばこ</yomi>
+		<kaki>ゴミ箱</kaki>
+		<meaning>trash box</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きけんな</yomi>
+		<kaki>危険な</kaki>
+		<meaning>danger</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あぶない</yomi>
+		<kaki>危ない</kaki>
+		<meaning>dangerous</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すてる</yomi>
+		<kaki>捨てる</kaki>
+		<meaning>throw away</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひろう</yomi>
+		<kaki>拾う</kaki>
+		<meaning>pick up</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ずじょう</yomi>
+		<kaki>頭上</kaki>
+		<meaning>head</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あしもと</yomi>
+		<kaki>足元</kaki>
+		<meaning>foot</meaning>
+		<week>1</week>
+		<day>3</day>
+	</lesson>
+	<!-- 第１週３日の終わり -->
+	
+	<!-- 第１週４日の初め -->
+	<lesson no="">
+		<yomi>せん</yomi>
+		<kaki>線</kaki>
+		<meaning>line</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～ばんせん</yomi>
+		<kaki>～番線</kaki>
+		<meaning>platform number</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぜんめん</yomi>
+		<kaki>全面</kaki>
+		<meaning>whole</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>がめん</yomi>
+		<kaki>画面</kaki>
+		<meaning>screen</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>〇〇ほうめん</yomi>
+		<kaki>〇〇方面</kaki>
+		<meaning>...area</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふつうの</yomi>
+		<kaki>普通の</kaki>
+		<meaning>ordinary</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かくえき</yomi>
+		<kaki>各駅</kaki>
+		<meaning>every station</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かくじ</yomi>
+		<kaki>各自</kaki>
+		<meaning>each person, respective</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かっこく</yomi>
+		<kaki>各国</kaki>
+		<meaning>each country</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もくじ</yomi>
+		<kaki>目次</kaki>
+		<meaning>contents</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じかい</yomi>
+		<kaki>次回</kaki>
+		<meaning>next time</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つぎ</yomi>
+		<kaki>次</kaki>
+		<meaning>next</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいそく</yomi>
+		<kaki>快速</kaki>
+		<meaning>high speed</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうそくどうろ</yomi>
+		<kaki>高速道路</kaki>
+		<meaning>super highway</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そくど</yomi>
+		<kaki>速度</kaki>
+		<meaning>speed</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はやい</yomi>
+		<kaki>速い</kaki>
+		<meaning>a ticket</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	
+	<lesson no="">
+		<yomi>つうか</yomi>
+		<kaki>通過</kaki>
+		<meaning>passage,transit</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すぎる</yomi>
+		<kaki>過ぎる</kaki>
+		<meaning>pass</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かこ</yomi>
+		<kaki>過去</kaki>
+		<meaning>an amendment</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちかてつ</yomi>
+		<kaki>地下鉄</kaki>
+		<meaning>subway</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>てつどう</yomi>
+		<kaki>鉄道</kaki>
+		<meaning>railway</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>てつ</yomi>
+		<kaki>鉄</kaki>
+		<meaning>steel</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんぱつ</yomi>
+		<kaki>先発</kaki>
+		<meaning>first train</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じはつ</yomi>
+		<kaki>次発</kaki>
+		<meaning>next train</meaning>
+		<week>1</week>
+		<day>4</day>
+	</lesson>
+	<!-- 第１週４日の終わり -->
+	
+	<!-- 第１週５日の初め -->
+	<lesson no="1">
+		<yomi>してい</yomi>
+		<kaki>指定</kaki>
+		<meaning>specification, designation</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="2">
+		<yomi>していせき</yomi>
+		<kaki>指定席</kaki>
+		<meaning>reserved seat</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="3">
+		<yomi>ゆび</yomi>
+		<kaki>指</kaki>
+		<meaning>finger</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆびわ</yomi>
+		<kaki>指輪</kaki>
+		<meaning>ring</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ていきゅうび</yomi>
+		<kaki>定休日</kaki>
+		<meaning>set/regular holiday</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あんてい</yomi>
+		<kaki>安定い</kaki>
+		<meaning>stability</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せき</yomi>
+		<kaki>席</kaki>
+		<meaning>seat</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅっせき</yomi>
+		<kaki>出席</kaki>
+		<meaning>attendance</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けっせき</yomi>
+		<kaki>欠席</kaki>
+		<meaning>absence</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じゆうな</yomi>
+		<kaki>自由な</kaki>
+		<meaning>free</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>りゆう</yomi>
+		<kaki>理由</kaki>
+		<meaning>reason</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じゆうせき</yomi>
+		<kaki>自由席</kaki>
+		<meaning>non-reserved seat</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ばんごう</yomi>
+		<kaki>番号</kaki>
+		<meaning>number</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～ばん</yomi>
+		<kaki>～番</kaki>
+		<meaning>number....</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まど</yomi>
+		<kaki>窓</kaki>
+		<meaning>window</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まどぐち</yomi>
+		<kaki>窓口</kaki>
+		<meaning>teller's window</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>りょうがわ</yomi>
+		<kaki>両側</kaki>
+		<meaning>both sides</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まどがわ</yomi>
+		<kaki>窓側</kaki>
+		<meaning>window side</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>みぎがわ</yomi>
+		<kaki>右側</kaki>
+		<meaning>right side</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つうと</yomi>
+		<kaki>通路</kaki>
+		<meaning>aisle</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>どうろ</yomi>
+		<kaki>道路</kaki>
+		<meaning>road</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんろ</yomi>
+		<kaki>線路</kaki>
+		<meaning>railway track</meaning>
+		<week>1</week>
+		<day>5</day>
+	</lesson>
+	<!-- 第１週５日の終わり -->
+	<!-- 第１週６日の始め  -->
+	<lesson no="">
+		<yomi>ていしゃ</yomi>
+		<kaki>停車</kaki>
+		<meaning>stopping of a vehicle</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>バスていく</yomi>
+		<kaki>バス停</kaki>
+		<meaning>bus stop</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいりく</yomi>
+		<kaki>整理</kaki>
+		<meaning>arrangement</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいりけん</yomi>
+		<kaki>整理券</kaki>
+		<meaning>numbered ticket</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちゅうしゃけん</yomi>
+		<kaki>駐車券</kaki>
+		<meaning>parking ticket</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいすうけん</yomi>
+		<kaki>回数券</kaki>
+		<meaning>counter ticket</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じょうしゃけん</yomi>
+		<kaki>乗車券</kaki>
+		<meaning>boarding ticket</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>げんきん</yomi>
+		<kaki>現金</kaki>
+		<meaning>cash</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あらわれる</yomi>
+		<kaki>現れる</kaki>
+		<meaning>appear</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひょうげん</yomi>
+		<kaki>表現</kaki>
+		<meaning>expression</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>りょうしん</yomi>
+		<kaki>両親</kaki>
+		<meaning>parents</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～りょう</yomi>
+		<kaki>～両</kaki>
+		<meaning>...cars on train</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とりかえる</yomi>
+		<kaki>取り替える</kaki>
+		<meaning>exchange</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>りょうがえ</yomi>
+		<kaki>両替</kaki>
+		<meaning>money exchange</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きがえる</yomi>
+		<kaki>着替える</kaki>
+		<meaning>change clothes</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆうせんせき</yomi>
+		<kaki>優先席</kaki>
+		<meaning>priority seat</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やさしい</yomi>
+		<kaki>優しい</kaki>
+		<meaning>kind</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じょゆう</yomi>
+		<kaki>女優</kaki>
+		<meaning>actress</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ざせき</yomi>
+		<kaki>座席</kaki>
+		<meaning>seat</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すわる</yomi>
+		<kaki>座る</kaki>
+		<meaning>sit</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいざ</yomi>
+		<kaki>正座</kaki>
+		<meaning>Japanese style sitting</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうしゃぐち</yomi>
+		<kaki>降車口</kaki>
+		<meaning>ဆင္းသည္</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いこう</yomi>
+		<kaki>以降</kaki>
+		<meaning>ျပီးေနာက္(အခ်ိန္)</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おりる</yomi>
+		<kaki>降りる</kaki>
+		<meaning>Medical examination</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふる</yomi>
+		<kaki>降る</kaki>
+		<meaning>fall</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+		<lesson no="">
+		<yomi>にんしん</yomi>
+		<kaki>妊娠</kaki>
+		<meaning>Pregnancy</meaning>
+		<week>1</week>
+		<day>6</day>
+	</lesson>
+	<!-- 第１週６日の終わり -->
+	<!-- 第１週extraの初め -->
+	<lesson no="">
+		<yomi>かんばん</yomi>
+		<kaki>未定</kaki>
+		<meaning>みてい</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>みらい</yomi>
+		<kaki>未来</kaki>
+		<meaning>future</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>みまん</yomi>
+		<kaki>～未満</kaki>
+		<meaning>less than</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅうまつ</yomi>
+		<kaki>週末</kaki>
+		<meaning>weekend</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>げつまつ</yomi>
+		<kaki>月末</kaki>
+		<meaning>end of month</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねんまつ</yomi>
+		<kaki>年末</kaki>
+		<meaning>end of year</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+		<lesson no="">
+		<yomi>すえっこ</yomi>
+		<kaki>末っ子</kaki>
+		<meaning>youngest child</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>わかい</yomi>
+		<kaki>若い</kaki>
+		<meaning>young</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はね</yomi>
+		<kaki>羽根</kaki>
+		<meaning>night</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うもう</yomi>
+		<kaki>今晩</kaki>
+		<meaning>tonight</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ばんごはん</yomi>
+		<kaki>晩ご飯</kaki>
+		<meaning>dinner</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+		<lesson no="">
+		<yomi>まいばん</yomi>
+		<kaki>毎晩</kaki>
+		<meaning>dinner</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さら</yomi>
+		<kaki>皿</kaki>
+		<meaning>plate</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はいざら</yomi>
+		<kaki>灰皿</kaki>
+		<meaning>ashtray</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅっけつ</yomi>
+		<kaki>出血</kaki>
+		<meaning>bleeding</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ち</yomi>
+		<kaki>血</kaki>
+		<meaning>blood</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きゅうじょ</yomi>
+		<kaki>救助</kaki>
+		<meaning>rescue, help</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たすける</yomi>
+		<kaki>助ける</kaki>
+		<meaning>help</meaning>
+		<week>1</week>
+		<day>7</day>
+	</lesson>
+	<!-- 第１週extraの終わり -->
+	<!-- 第１週の初め -->
+	<lesson no="">
+		<yomi>じゅんび</yomi>
+		<kaki>準備</kaki>
+		<meaning>preparation</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そなえる</yomi>
+		<kaki>備える</kaki>
+		<meaning>prepare</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>えいぎょう</yomi>
+		<kaki>営業</kaki>
+		<meaning>business</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いとなむ</yomi>
+		<kaki>営む</kaki>
+		<meaning>to run(a business), to operate</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きゅうぎょう</yomi>
+		<kaki>休業</kaki>
+		<meaning>ပိတ္ရက္</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいへい</yomi>
+		<kaki>開閉</kaki>
+		<meaning>opening and shutting</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しまる</yomi>
+		<kaki>閉まる　（自）</kaki>
+		<meaning>close, shut</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しめる</yomi>
+		<kaki>閉める（他）</kaki>
+		<meaning>close, shut</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あんない</yomi>
+		<kaki>案内</kaki>
+		<meaning>guidance, information</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あん</yomi>
+		<kaki>案</kaki>
+		<meaning>idea, suggestion,proposal, plan</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かない</yomi>
+		<kaki>家内</kaki>
+		<meaning>wife</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いない</yomi>
+		<kaki>以内</kaki>
+		<meaning>within</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うちがわ</yomi>
+		<kaki>内側</kaki>
+		<meaning>inside</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こくない</yomi>
+		<kaki>国内</kaki>
+		<meaning>domestic, internal</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>よてい</yomi>
+		<kaki>予定</kaki>
+		<meaning>Plan/schedule</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>よしゅう</yomi>
+		<kaki>予習</kaki>
+		<meaning>preparation</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>よやく</yomi>
+		<kaki>予約</kaki>
+		<meaning>appointment / reservation</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あらかじめ</yomi>
+		<kaki>予め</kaki>
+		<meaning>ၾကိုတင္လုပ္သည္</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やく～</yomi>
+		<kaki>約～</kaki>
+		<meaning>approximately?</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほんじつ</yomi>
+		<kaki>本日</kaki>
+		<meaning>today</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいてん</yomi>
+		<kaki>開店</kaki>
+		<meaning>open shop</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>へいてん</yomi>
+		<kaki>閉店</kaki>
+		<meaning>close shop</meaning>
+		<week>2</week>
+		<day>1</day>
+	</lesson>
+	<!-- 第２週１日の終わり -->
+	
+	<!-- 第２週２日の初め -->
+	<lesson no="">
+		<yomi>けむり</yomi>
+		<kaki>煙</kaki>
+		<meaning>မီးခုိး</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きんえん</yomi>
+		<kaki>禁煙</kaki>
+		<meaning>no smoking</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きつえんじょ</yomi>
+		<kaki>喫煙所</kaki>
+		<meaning>smoking area</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほんとう</yomi>
+		<kaki>本当</kaki>
+		<meaning>the truth</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とう〇〇</yomi>
+		<kaki>当〇〇</kaki>
+		<meaning>this 〇〇</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あたる</yomi>
+		<kaki>当たる</kaki>
+		<meaning>hit, win</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あたりまえ</yomi>
+		<kaki>当たり前</kaki>
+		<meaning>natural, not surprising</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぜんぶ</yomi>
+		<kaki>全部</kaki>
+		<meaning>all, whole</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぜんせき</yomi>
+		<kaki>全席</kaki>
+		<meaning>all seats</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あんぜん</yomi>
+		<kaki>安全</kaki>
+		<meaning>safe</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おきゃくさま</yomi>
+		<kaki>お客様</kaki>
+		<meaning>customer</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ようす</yomi>
+		<kaki>様子</kaki>
+		<meaning>appearance, situation</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+<lesson no="">
+		<yomi>りかい</yomi>
+		<kaki>理解</kaki>
+		<meaning>understanding</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいせつ</yomi>
+		<kaki>解説</kaki>
+		<meaning>explanation</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいとう</yomi>
+		<kaki>解答</kaki>
+		<meaning>answer</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぶんかいする</yomi>
+		<kaki>分解する</kaki>
+		<meaning>ခြဲျခမ္းစိတ္ျဖာသည္</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とく</yomi>
+		<kaki>解く</kaki>
+		<meaning>ေျဖရွင္းသည္</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きょうりょく</yomi>
+		<kaki>協力</kaki>
+		<meaning>cooperation</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねがう</yomi>
+		<kaki>願う</kaki>
+		<meaning>wish</meaning>
+		<week>2</week>
+		<day>2</day>
+	</lesson>
+	<!-- 第２週２日の終わり -->
+	
+	<!-- 第２週３日の初め -->
+	<lesson no="">
+		<yomi>かんこう</yomi>
+		<kaki>観光</kaki>
+		<meaning>sightseeing</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんきゃく</yomi>
+		<kaki>観客</kaki>
+		<meaning>audience</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>どうぶつえん</yomi>
+		<kaki>動物園</kaki>
+		<meaning>zoo</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くうこう</yomi>
+		<kaki>空港</kaki>
+		<meaning>airport</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>〇〇こう</yomi>
+		<kaki>〇〇港</kaki>
+		<meaning>〇〇port ဆိပ္ကမ္း</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>みなと</yomi>
+		<kaki>港</kaki>
+		<meaning>ဆိပ္ကမ္း</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆうえんち</yomi>
+		<kaki>遊園地</kaki>
+		<meaning>ကေလးကစားကြင္း</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あそぶ</yomi>
+		<kaki>遊ぶ</kaki>
+		<meaning>ကစားသည္</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>びじゅつかん</yomi>
+		<kaki>美術館</kaki>
+		<meaning>အနုပညာျပတုိက္</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うつくしい</yomi>
+		<kaki>美しい</kaki>
+		<meaning>လွပတင့္တယ္ေသာ</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>びじん</yomi>
+		<kaki>美人</kaki>
+		<meaning>မိန္းမလွ</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>びじゅつ</yomi>
+		<kaki>美術</kaki>
+		<meaning>အနုပညာ</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぎじゅつ</yomi>
+		<kaki>技術</kaki>
+		<meaning>technology, technique</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅじゅつ</yomi>
+		<kaki>手術</kaki>
+		<meaning>surgery, operation</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じんじゃ</yomi>
+		<kaki>神社</kaki>
+		<meaning>shrine</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かみさま</yomi>
+		<kaki>神様</kaki>
+		<meaning>god</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんけいしつな</yomi>
+		<kaki>神経質な</kaki>
+		<meaning>nervous စိတ္လွုတ္ရွားေသာ ဆက္ဆက္ထိမခံ</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>〇〇じ</yomi>
+		<kaki>〇〇寺</kaki>
+		<meaning>??Temple</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おてら</yomi>
+		<kaki>お寺</kaki>
+		<meaning>a temple</meaning>
+		<week>2</week>
+		<day>3</day>
+	</lesson>
+	<!-- 第２週３日の終わり -->
+	
+	<!-- 第２週４日の初め -->
+	<lesson no="">
+		<yomi>しやくしょ</yomi>
+		<kaki>市役所</kaki>
+		<meaning>ျမိဳ႕နယ္ရံုး</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やくにたつ</yomi>
+		<kaki>役に立つ</kaki>
+		<meaning>အသံုး၀င္ေသာ</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やくいん</yomi>
+		<kaki>役員</kaki>
+		<meaning>အစုိးရ၀န္ထမ္း</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やくわり</yomi>
+		<kaki>役割</kaki>
+		<meaning>၀တၱရား</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆうびん</yomi>
+		<kaki>郵便</kaki>
+		<meaning>mail</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆうそう</yomi>
+		<kaki>郵送</kaki>
+		<meaning>mail နဲ႕ပို႕ျခင္း</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆうびんきょく</yomi>
+		<kaki>郵便局</kaki>
+		<meaning>စာတုိက္</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やっきょく</yomi>
+		<kaki>薬局</kaki>
+		<meaning>ေဆးတုိက္</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうばん</yomi>
+		<kaki>交番</kaki>
+		<meaning>ရဲကင္း</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうかん</yomi>
+		<kaki>交換</kaki>
+		<meaning>လဲလွယ္သည္</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうつう</yomi>
+		<kaki>交通</kaki>
+		<meaning>trafic, transport</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さ</yomi>
+		<kaki>差</kaki>
+		<meaning>ကြာျခားခ်က္</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さしだす</yomi>
+		<kaki>差し出す</kaki>
+		<meaning>ေပးပို႕သည္</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さしだしにん</yomi>
+		<kaki>差出人</kaki>
+		<meaning>ေပးပို႕သူ</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうさてん</yomi>
+		<kaki>交差点</kaki>
+		<meaning>???????</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～てん</yomi>
+		<kaki>～点</kaki>
+		<meaning>～point</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>てんすう</yomi>
+		<kaki>点数</kaki>
+		<meaning>score,point</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほどうきょう</yomi>
+		<kaki>歩道橋</kaki>
+		<meaning>လူကူးကံုးတံတား</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はし</yomi>
+		<kaki>橋</kaki>
+		<meaning>တံတား</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうえん</yomi>
+		<kaki>公園</kaki>
+		<meaning>ပန္းျခံ</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<!-- 第２週４日の終わり -->
+	
+	<!-- 第２週５日の初め -->
+	<lesson no="1">
+		<yomi>じゅしん</yomi>
+		<kaki>受信</kaki>
+		<meaning>ေမးလ္ လက္ခံရ</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="2">
+		<yomi>じゅけん</yomi>
+		<kaki>受験</kaki>
+		<meaning>စာေမးပြဲေျဖသည္</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="3">
+		<yomi>うける</yomi>
+		<kaki>受ける</kaki>
+		<meaning>လက္ခံရရွိသည္</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi></yomi>
+		<kaki>試験に受かる</kaki>
+		<meaning>စာေမးပြဲေအာင္သည္</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つける</yomi>
+		<kaki>付ける（他）</kaki>
+		<meaning>ကပ္သည္</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かたづける</yomi>
+		<kaki>片付ける</kaki>
+		<meaning>ရွင္းလင္းသိမ္းဆည္းသည္</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うけつけ</yomi>
+		<kaki>受付</kaki>
+		<meaning>ဧည့္ၾကိုေကာင္တာ</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つく</yomi>
+		<kaki>Nが付く</kaki>
+		<meaning>ကပ္လ်က္ပါရွိ</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かがく</yomi>
+		<kaki>科学</kaki>
+		<meaning>science</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>げか</yomi>
+		<kaki>外科</kaki>
+		<meaning>surgery</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ないか</yomi>
+		<kaki>内科</kaki>
+		<meaning>internal medicine</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きょうかしょ</yomi>
+		<kaki>教科書</kaki>
+		<meaning>text book</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じびか</yomi>
+		<kaki>耳鼻科</kaki>
+		<meaning>ears and nose department</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はな</yomi>
+		<kaki>鼻</kaki>
+		<meaning>nose</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はなみず</yomi>
+		<kaki>鼻水</kaki>
+		<meaning>ႏွာရည္</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふじん</yomi>
+		<kaki>婦人</kaki>
+		<meaning>ကေတာ္</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅふ</yomi>
+		<kaki>主婦</kaki>
+		<meaning>housewife</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さんふじんか</yomi>
+		<kaki>産婦人科</kaki>
+		<meaning>သားဖြားမီးယပ္</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けいしき</yomi>
+		<kaki>形式</kaki>
+		<meaning>form/type</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ずけい</yomi>
+		<kaki>図形</kaki>
+		<meaning>diagram</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいけいげか</yomi>
+		<kaki>整形外科</kaki>
+		<meaning>အရိုးအေၾကာငွာန</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にんぎょう</yomi>
+		<kaki>人形</kaki>
+		<meaning>လူရုပ္</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かたち</yomi>
+		<kaki>形</kaki>
+		<meaning>ပုံသ႑န္</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こっせつ</yomi>
+		<kaki>骨折</kaki>
+		<meaning>အရိုးက်ဳိး</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほね</yomi>
+		<kaki>骨</kaki>
+		<meaning>bone</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うせつ</yomi>
+		<kaki>右折</kaki>
+		<meaning>right turn</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>させつ</yomi>
+		<kaki>左折</kaki>
+		<meaning>left turn</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おる</yomi>
+		<kaki>折る</kaki>
+		<meaning>break,fold(something)</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おれる</yomi>
+		<kaki>折れる</kaki>
+		<meaning>be broken</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おりがみ</yomi>
+		<kaki>折り紙</kaki>
+		<meaning>japanese art of folding paper</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>????</yomi>
+		<kaki>??</kaki>
+		<meaning>????</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんろうしんふ</yomi>
+		<kaki>新郎新婦</kaki>
+		<meaning>သတုိ႕သားသတုိ႕သမီး</meaning>
+		<week>2</week>
+		<day>5</day>
+	</lesson>
+	<!-- 第２週５日の終わり -->
+	<!-- 第２週６日の始め  -->
+	<lesson no="">
+		<yomi>こまる</yomi>
+		<kaki>困る</kaki>
+		<meaning>be in trouble</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうぼう</yomi>
+		<kaki>消防</kaki>
+		<meaning>မီးျငွိမ္းသတ္သည္</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けす</yomi>
+		<kaki>消す</kaki>
+		<meaning>ျငွိမ္းသည္ ပိတ္သည္</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きえる</yomi>
+		<kaki>消える</kaki>
+		<meaning>ျငိမ္းသည္ ပိတ္ေနသည္</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けしゴム</yomi>
+		<kaki>消しゴム</kaki>
+		<meaning>ခဲဖ်က္</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>よぼう</yomi>
+		<kaki>予防</kaki>
+		<meaning>prevention,precaution</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふせぐ</yomi>
+		<kaki>防ぐ</kaki>
+		<meaning>prevent</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きゅうきゅうしゃ</yomi>
+		<kaki>救急車</kaki>
+		<meaning>ambulance</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すくう</yomi>
+		<kaki>救う</kaki>
+		<meaning>save</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けいかん</yomi>
+		<kaki>警官</kaki>
+		<meaning>police officer</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けいさつ</yomi>
+		<kaki>警察</kaki>
+		<meaning>police</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けいさつしょ</yomi>
+		<kaki>警察署</kaki>
+		<meaning>police station</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じこ</yomi>
+		<kaki>事故</kaki>
+		<meaning>accident</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こしょう</yomi>
+		<kaki>故障</kaki>
+		<meaning>breakdown, failure</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こ〇〇</yomi>
+		<kaki>故〇〇</kaki>
+		<meaning>ကြယ္လြန္သူ...</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>でんごん</yomi>
+		<kaki>伝言</kaki>
+		<meaning>အသံေမးလ္</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つたえる</yomi>
+		<kaki>伝える</kaki>
+		<meaning>တဆင့္ျပန္ေျပာသည္</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>てつだう</yomi>
+		<kaki>手伝う</kaki>
+		<meaning>ကူညီသည္</meaning>
+		<week>2</week>
+		<day>6</day>
+	</lesson>
+	<!-- 第２週６日の終わり -->
+	<!-- 第２週extraの初め -->
+	<lesson no="">
+		<yomi>きいろ</yomi>
+		<kaki>黄色</kaki>
+		<meaning>yellow</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいが</yomi>
+		<kaki>絵画</kaki>
+		<meaning>arts, painting</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>え</yomi>
+		<kaki>絵</kaki>
+		<meaning>picture, drawing</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>えほん</yomi>
+		<kaki>絵本</kaki>
+		<meaning>picture booki</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～くみ</yomi>
+		<kaki>～組</kaki>
+		<meaning>Pairs</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ばんぐみ</yomi>
+		<kaki>番組</kaki>
+		<meaning>TV program</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くむ</yomi>
+		<kaki>組む</kaki>
+		<meaning>team up</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くみたてる</yomi>
+		<kaki>組み立てる</kaki>
+		<meaning>put together</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やくそく</yomi>
+		<kaki>約束</kaki>
+		<meaning>promise, appointment</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～たば</yomi>
+		<kaki>～束</kaki>
+		<meaning>bundle,bunch</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はなたば</yomi>
+		<kaki>花束</kaki>
+		<meaning>bunch of flower</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じゅぎょう</yomi>
+		<kaki>授業</kaki>
+		<meaning>class/lesson</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きょうじゅ</yomi>
+		<kaki>教授</kaki>
+		<meaning>professor</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>わたる</yomi>
+		<kaki>渡る</kaki>
+		<meaning>cross over</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>わたす</yomi>
+		<kaki>渡す</kaki>
+		<meaning>hand over</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むかし</yomi>
+		<kaki>昔</kaki>
+		<meaning>long ago, old times</meaning>
+		<week>2</week>
+		<day>7</day>
+	</lesson>
+	<!-- 第３週extraの終わり -->
+	<!-- 第３週の初め -->
+	<lesson no="">
+		<yomi>ひつような</yomi>
+		<kaki>必要な</kaki>
+		<meaning>necessary</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いる</yomi>
+		<kaki>要る</kaki>
+		<meaning>need</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じゅうような</yomi>
+		<kaki>重要な</kaki>
+		<meaning>important</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>れいぼう</yomi>
+		<kaki>冷房</kaki>
+		<meaning>air cooling</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つめたい</yomi>
+		<kaki>冷たい</kaki>
+		<meaning>cold</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひやす</yomi>
+		<kaki>冷やす（他）</kaki>
+		<meaning>cool, chill</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひえる</yomi>
+		<kaki>冷える（自）</kaki>
+		<meaning>become cool, chill</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さめる</yomi>
+		<kaki>冷める（自）</kaki>
+		<meaning>cool down</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さます</yomi>
+		<kaki>冷ます（他）</kaki>
+		<meaning>cool something down</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>れいぞうこ</yomi>
+		<kaki>冷蔵庫</kaki>
+		<meaning>refrigerator</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>れいとうこ</yomi>
+		<kaki>冷凍庫</kaki>
+		<meaning>freezer</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きんこ</yomi>
+		<kaki>金庫</kaki>
+		<meaning>safe</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゃこ</yomi>
+		<kaki>車庫</kaki>
+		<meaning>garage</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>めしあがる</yomi>
+		<kaki>召し上がる</kaki>
+		<meaning>eat</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほぞんする</yomi>
+		<kaki>保存する</kaki>
+		<meaning>preserve</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぞんじです</yomi>
+		<kaki>存知です</kaki>
+		<meaning>know</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぞんじません</yomi>
+		<kaki>存じません</kaki>
+		<meaning>I do not know</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひっしに</yomi>
+		<kaki>必死に</kaki>
+		<meaning>desperately</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かならず</yomi>
+		<kaki>必ず</kaki>
+		<meaning>always,certain</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ようれいぞう</yomi>
+		<kaki>要冷蔵</kaki>
+		<meaning>necessary preserve in refrigerator</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ようれいとう</yomi>
+		<kaki>要冷凍</kaki>
+		<meaning>necessary to preserve in freezer</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>れいあんしょ</yomi>
+		<kaki>冷暗所</kaki>
+		<meaning>dark and cool place</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいふうご</yomi>
+		<kaki>開封後</kaki>
+		<meaning>after opening</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なまもの</yomi>
+		<kaki>生物</kaki>
+		<meaning>raw things</meaning>
+		<week>3</week>
+		<day>1</day>
+	</lesson>
+	<!-- 第３週１日の終わり -->
+	<!-- 第３週２日の始め  -->
+	<lesson no="">
+		<yomi>ひよう</yomi>
+		<kaki>費用</kaki>
+		<meaning>expense, cost</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうひしゃ</yomi>
+		<kaki>消費者</kaki>
+		<meaning>consumer</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>りょひ</yomi>
+		<kaki>旅費</kaki>
+		<meaning>travelling expense</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいひ</yomi>
+		<kaki>会費</kaki>
+		<meaning>membership fees</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きかん</yomi>
+		<kaki>期間</kaki>
+		<meaning>period of time</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ていきけん</yomi>
+		<kaki>定期券</kaki>
+		<meaning>commuter pass</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちょうき</yomi>
+		<kaki>長期</kaki>
+		<meaning>long period</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たんき</yomi>
+		<kaki>短期</kaki>
+		<meaning>short period</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きげん</yomi>
+		<kaki>期限</kaki>
+		<meaning>time limit</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かぎる</yomi>
+		<kaki>限る</kaki>
+		<meaning>limit, restirct</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>げんど</yomi>
+		<kaki>限度</kaki>
+		<meaning>a limit</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>げんてい</yomi>
+		<kaki>限定</kaki>
+		<meaning>limitation</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>〇〇せい</yomi>
+		<kaki>〇〇製</kaki>
+		<meaning>made in ~~</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいひん</yomi>
+		<kaki>製品</kaki>
+		<meaning>product</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいぞう</yomi>
+		<kaki>製造</kaki>
+		<meaning>manufacture, production</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つくる</yomi>
+		<kaki>造る</kaki>
+		<meaning>make</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょう</yomi>
+		<kaki>賞</kaki>
+		<meaning>award, prize</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうきん</yomi>
+		<kaki>賞金</kaki>
+		<meaning>prize money</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうみきげん</yomi>
+		<kaki>賞味期限</kaki>
+		<meaning>best-before date</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうひん</yomi>
+		<kaki>賞品</kaki>
+		<meaning>prize</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほうほう</yomi>
+		<kaki>方法</kaki>
+		<meaning>method, way</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぶんぽう</yomi>
+		<kaki>文法</kaki>
+		<meaning>grammar</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほうりつ</yomi>
+		<kaki>法律</kaki>
+		<meaning>law</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おんど</yomi>
+		<kaki>温度</kaki>
+		<meaning>temperature</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あたたかい</yomi>
+		<kaki>温かい</kaki>
+		<meaning>warm</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きおん</yomi>
+		<kaki>気温</kaki>
+		<meaning>air temperature</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じょうおん</yomi>
+		<kaki>常温</kaki>
+		<meaning>normal temperature</meaning>
+		<week>3</week>
+		<day>2</day>
+	</lesson>
+	<!-- 第３週２日の終わり -->
+	<!-- 第３週３日の始め  -->
+	<lesson no="">
+		<yomi>はんばい</yomi>
+		<kaki>販売</kaki>
+		<meaning>selling</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じどうはんばいき</yomi>
+		<kaki>自動販売機</kaki>
+		<meaning>vending machine</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひこうき</yomi>
+		<kaki>飛行機</kaki>
+		<meaning>airplane</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きかい</yomi>
+		<kaki>機械</kaki>
+		<meaning>machine</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きかい</yomi>
+		<kaki>機会</kaki>
+		<meaning>opportunity, chance</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぞうか</yomi>
+		<kaki>増加</kaki>
+		<meaning>an increase</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふえる</yomi>
+		<kaki>増える(自)</kaki>
+		<meaning>increase</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふやす</yomi>
+		<kaki>増やす（他）</kaki>
+		<meaning>increase, add</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>げんしょう</yomi>
+		<kaki>減少</kaki>
+		<meaning>a decrease</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>へる</yomi>
+		<kaki>減る（自）</kaki>
+		<meaning>decrease</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>へらす</yomi>
+		<kaki>減らす（他）</kaki>
+		<meaning>decrease</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>りょう</yomi>
+		<kaki>量</kaki>
+		<meaning>quantity</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すうりょう</yomi>
+		<kaki>数量</kaki>
+		<meaning>amount</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こおり</yomi>
+		<kaki>氷</kaki>
+		<meaning>ice</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>へんじ</yomi>
+		<kaki>返事</kaki>
+		<meaning>reply</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>へんきゃく</yomi>
+		<kaki>返却</kaki>
+		<meaning>giving back</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かえす</yomi>
+		<kaki>返す</kaki>
+		<meaning>return something</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かえし</yomi>
+		<kaki>返し</kaki>
+		<meaning>revenge</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おゆ</yomi>
+		<kaki>お湯</kaki>
+		<meaning>hot water</meaning>
+		<week>3</week>
+		<day>3</day>
+	</lesson>
+	<!-- 第３週３日の終わり -->
+	<!-- 第３週４日の始め  -->
+	<lesson no="">
+		<yomi>ざいりょう</yomi>
+		<kaki>材料</kaki>
+		<meaning>ingredients, materials</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きょうざい</yomi>
+		<kaki>教材</kaki>
+		<meaning>techning technique</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たまご</yomi>
+		<kaki>卵</kaki>
+		<meaning>egg</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たまごやき</yomi>
+		<kaki>卵焼き</kaki>
+		<meaning>japanese omlet</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>らんおう</yomi>
+		<kaki>卵黄</kaki>
+		<meaning>yolk</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぎゅうにゅう</yomi>
+		<kaki>牛乳</kaki>
+		<meaning>cow's milk</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にゅうせいひん</yomi>
+		<kaki>乳製品</kaki>
+		<meaning>milk products</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+		<lesson no="">
+		<yomi>ぼにゅう</yomi>
+		<kaki>母乳</kaki>
+		<meaning>mother's milk</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こな</yomi>
+		<kaki>粉</kaki>
+		<meaning>powder, flour</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こむぎこ</yomi>
+		<kaki>小麦粉</kaki>
+		<meaning>wheat flour</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふくろ</yomi>
+		<kaki>袋</kaki>
+		<meaning>bag</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゴミぶくろ</yomi>
+		<kaki>ゴミ袋</kaki>
+		<meaning>garbage bag</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かみぶくろ</yomi>
+		<kaki>紙袋</kaki>
+		<meaning>paper bag</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>てぶくろ</yomi>
+		<kaki>手袋</kaki>
+		<meaning>gloves</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たび</yomi>
+		<kaki>足袋</kaki>
+		<meaning>japanese shoe</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+		<lesson no="">
+		<yomi>れじぶくろ</yomi>
+		<kaki>レジ袋</kaki>
+		<meaning>shopping bag</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こんざつ</yomi>
+		<kaki>混雑</kaki>
+		<meaning>congestion</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まぜる</yomi>
+		<kaki>混ぜる</kaki>
+		<meaning>mix</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やく</yomi>
+		<kaki>焼く</kaki>
+		<meaning>roast, grill</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やける</yomi>
+		<kaki>焼ける</kaki>
+		<meaning>burnt, baked</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひょう</yomi>
+		<kaki>表</kaki>
+		<meaning>table</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おもて</yomi>
+		<kaki>表</kaki>
+		<meaning>surface</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はっぴょう</yomi>
+		<kaki>発表</kaki>
+		<meaning>announcement</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+		<lesson no="">
+		<yomi>だいひょう</yomi>
+		<kaki>代表</kaki>
+		<meaning>representative</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひょう</yomi>
+		<kaki>表</kaki>
+		<meaning>surface,face</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あらわす</yomi>
+		<kaki>表す</kaki>
+		<meaning>show, express</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>へんきゃく</yomi>
+		<kaki>返却</kaki>
+		<meaning>reverse, back</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うらがえす</yomi>
+		<kaki>裏返す</kaki>
+		<meaning>turn over</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うらぎる</yomi>
+		<kaki>裏切る</kaki>
+		<meaning>betray</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にんじん</yomi>
+		<kaki>人参</kaki>
+		<meaning>carrot</meaning>
+		<week>3</week>
+		<day>4</day>
+	</lesson>
+	<!-- 第３週４日の終わり -->
+	<!-- 第３週５日の始め  -->
+	<lesson no="1">
+		<yomi>りゅうがく</yomi>
+		<kaki>留学</kaki>
+		<meaning>studying abroad</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="2">
+		<yomi>るすばん</yomi>
+		<kaki>留守番</kaki>
+		<meaning>staying at home</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="3">
+		<yomi>ほりゅう</yomi>
+		<kaki>保留</kaki>
+		<meaning>reservation, suspension</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かきとめ</yomi>
+		<kaki>書留</kaki>
+		<meaning>registered mail</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とめる</yomi>
+		<kaki>留める</kaki>
+		<meaning>register</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅび</yomi>
+		<kaki>守備</kaki>
+		<meaning>defense</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>るす</yomi>
+		<kaki>留守</kaki>
+		<meaning>absence</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まもる</yomi>
+		<kaki>守る</kaki>
+		<meaning>protect</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こい</yomi>
+		<kaki>濃い</kaki>
+		<meaning>concrete, dark</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うすい</yomi>
+		<kaki>薄い</kaki>
+		<meaning>thin, light, weak</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぶぶん</yomi>
+		<kaki>部分</kaki>
+		<meaning>part</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>がくぶ</yomi>
+		<kaki>学部</kaki>
+		<meaning>faculty</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぶちょう</yomi>
+		<kaki>部長</kaki>
+		<meaning>department head, manager</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>へや</yomi>
+		<kaki>部屋</kaki>
+		<meaning>room</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すうじ</yomi>
+		<kaki>数字</kaki>
+		<meaning>number</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すうがく</yomi>
+		<kaki>数学</kaki>
+		<meaning>mathematics</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かず</yomi>
+		<kaki>数</kaki>
+		<meaning>a number</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かぞえる</yomi>
+		<kaki>数える</kaki>
+		<meaning>count</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けんめい</yomi>
+		<kaki>件名</kaki>
+		<meaning>subject (mail)</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じけん</yomi>
+		<kaki>事件</kaki>
+		<meaning>an accident</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ようけん</yomi>
+		<kaki>用件</kaki>
+		<meaning>business, matter</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+		<lesson no="">
+		<yomi>さいにゅうこく</yomi>
+		<kaki>再入国</kaki>
+		<meaning>e-entering a country</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さいダイヤル</yomi>
+		<kaki>再ダイヤル</kaki>
+		<meaning>redial</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さいせい</yomi>
+		<kaki>再生</kaki>
+		<meaning>regeneration,recycling</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さらいしゅう</yomi>
+		<kaki>再来週</kaki>
+		<meaning>week after next</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふたたび</yomi>
+		<kaki>再び</kaki>
+		<meaning>again</meaning>
+		<week>3</week>
+		<day>5</day>
+	</lesson>
+	<!-- 第３週５日の終わり -->
+	<!-- 第３週６日の始め  -->
+	<lesson no="">
+		<yomi>せつぞく</yomi>
+		<kaki>接続</kaki>
+		<meaning>connection</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>めんせつ</yomi>
+		<kaki>面接</kaki>
+		<meaning>interview</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つづく</yomi>
+		<kaki>続く（自）</kaki>
+		<meaning>continue</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つづける</yomi>
+		<kaki>続ける（他）</kaki>
+		<meaning>continue</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひょうじ</yomi>
+		<kaki>表示</kaki>
+		<meaning>indication, expression</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しじ</yomi>
+		<kaki>指示（をしたがう）</kaki>
+		<meaning>direction, instruction (follow)</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+		<lesson no="">
+		<yomi>しめす</yomi>
+		<kaki>示す</kaki>
+		<meaning>show, point out</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もどる</yomi>
+		<kaki>戻る</kaki>
+		<meaning>return, go back</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もどす</yomi>
+		<kaki>戻す</kaki>
+		<meaning>return, put back</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんりょう</yomi>
+		<kaki>完了</kaki>
+		<meaning>completion</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんぜん</yomi>
+		<kaki>完全な</kaki>
+		<meaning>perfect, complete</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>りかい</yomi>
+		<kaki>理解</kaki>
+		<meaning>understanding, agreement</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅうりょう</yomi>
+		<kaki>終了</kaki>
+		<meaning>end, expiration</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とうろく</yomi>
+		<kaki>登録</kaki>
+		<meaning>registration</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とざん</yomi>
+		<kaki>登山</kaki>
+		<meaning>mountain climbing</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>のぼる</yomi>
+		<kaki>登る</kaki>
+		<meaning>climb</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きろく</yomi>
+		<kaki>記録</kaki>
+		<meaning>a record</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ろくおん</yomi>
+		<kaki>録音</kaki>
+		<meaning>recording(audio)</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ろくが</yomi>
+		<kaki>録画</kaki>
+		<meaning>recording(video)</meaning>
+		<week>3</week>
+		<day>6</day>
+	</lesson>
+	<!-- 第３週６日の終わり -->
+	<!-- 第３週extraの初め -->
+	<lesson no="">
+		<yomi>きょういく</yomi>
+		<kaki>教育</kaki>
+		<meaning>education</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そだつ</yomi>
+		<kaki>育つ</kaki>
+		<meaning>grow</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そだてる</yomi>
+		<kaki>育てる</kaki>
+		<meaning>raise,bring up</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こそだて</yomi>
+		<kaki>子育て</kaki>
+		<meaning>raising children</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅるい</yomi>
+		<kaki>種類</kaki>
+		<meaning>type, kind</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たね</yomi>
+		<kaki>種</kaki>
+		<meaning>seed</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ね</yomi>
+		<kaki>根</kaki>
+		<meaning>root</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょるい</yomi>
+		<kaki>書類</kaki>
+		<meaning>document</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぶんるい</yomi>
+		<kaki>分類</kaki>
+		<meaning>classification</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じんるい</yomi>
+		<kaki>人類</kaki>
+		<meaning>human race</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きょうし</yomi>
+		<kaki>教師</kaki>
+		<meaning>teacher</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いし</yomi>
+		<kaki>医師</kaki>
+		<meaning>doctor</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんごし</yomi>
+		<kaki>看護師</kaki>
+		<meaning>nurse</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふさい</yomi>
+		<kaki>夫妻(other)</kaki>
+		<meaning>husband and wife</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふうふ</yomi>
+		<kaki>夫婦（私）</kaki>
+		<meaning>husband and wife</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つま</yomi>
+		<kaki>妻</kaki>
+		<meaning>wife</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かない</yomi>
+		<kaki>家内</kaki>
+		<meaning>wife</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じょうば</yomi>
+		<kaki>乗馬</kaki>
+		<meaning>horse riding</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じょうしゃ</yomi>
+		<kaki>乗車</kaki>
+		<meaning>Carriage</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うま</yomi>
+		<kaki>馬</kaki>
+		<meaning>horse</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せっけん</yomi>
+		<kaki>石けん</kaki>
+		<meaning>soap</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>	<lesson no="">
+		<yomi>いし</yomi>
+		<kaki>石</kaki>
+		<meaning>stone</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せきゆ</yomi>
+		<kaki>石油</kaki>
+		<meaning>oil(petroleum)</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほうせき</yomi>
+		<kaki>宝石</kaki>
+		<meaning>jewel</meaning>
+		<week>3</week>
+		<day>7</day>
+	</lesson>
+	<!-- 第３週extraの終わり -->
+	<!-- 第４週の初め -->
+	<lesson no="">
+		<yomi>さとう</yomi>
+		<kaki>砂糖</kaki>
+		<meaning>sugar</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すな</yomi>
+		<kaki>砂</kaki>
+		<meaning>sand</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とうぶん</yomi>
+		<kaki>糖分</kaki>
+		<meaning>sugar content</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょくえん</yomi>
+		<kaki>食塩</kaki>
+		<meaning>table salt</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しお</yomi>
+		<kaki>塩</kaki>
+		<meaning>salt</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+		<lesson no="">
+		<yomi>えんぶん</yomi>
+		<kaki>塩分</kaki>
+		<meaning>salt content</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうゆ</yomi>
+		<kaki>しょう油</kaki>
+		<meaning>soy sauce</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とうゆ</yomi>
+		<kaki>灯油</kaki>
+		<meaning>kerosene</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あぶら</yomi>
+		<kaki>油</kaki>
+		<meaning>oil</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>りょくちゃ</yomi>
+		<kaki>緑茶</kaki>
+		<meaning>green tea</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>みどりいろ</yomi>
+		<kaki>緑色</kaki>
+		<meaning>green color</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうちゃ</yomi>
+		<kaki>紅茶</kaki>
+		<meaning>tea</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうちゃ</yomi>
+		<kaki>口紅</kaki>
+		<meaning>lipstick</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～さつ</yomi>
+		<kaki>～冊</kaki>
+		<meaning>counter for books</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さっすう</yomi>
+		<kaki>冊数</kaki>
+		<meaning>number of books</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～こ</yomi>
+		<kaki>～個</kaki>
+		<meaning>counter of general objects</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こすう</yomi>
+		<kaki>個数</kaki>
+		<meaning>number of items</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こじん</yomi>
+		<kaki>個人</kaki>
+		<meaning>individual(person)</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>だんたい</yomi>
+		<kaki>団体</kaki>
+		<meaning>group</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～まい</yomi>
+		<kaki>～枚</kaki>
+		<meaning>counter for flat objects</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まいすう</yomi>
+		<kaki>枚数</kaki>
+		<meaning>number of sheets,copies</meaning>
+		<week>4</week>
+		<day>1</day>
+	</lesson>
+	<!-- 第４週１日の終わり -->
+	<!-- 第４週２日の始め  -->
+	<lesson no="">
+		<yomi>こうこく</yomi>
+		<kaki>広告</kaki>
+		<meaning>advertisement</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんぶんこうこく</yomi>
+		<kaki>新聞広告</kaki>
+		<meaning>Newspaper advertisement</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほうこく</yomi>
+		<kaki>報告</kaki>
+		<meaning>report</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>べんりな</yomi>
+		<kaki>便利な</kaki>
+		<meaning>convenient</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>りよう</yomi>
+		<kaki>利用</kaki>
+		<meaning>use</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>わる</yomi>
+		<kaki>割る</kaki>
+		<meaning>break(something)</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+		<lesson no="">
+		<yomi>われる</yomi>
+		<kaki>割れる</kaki>
+		<meaning>breaken, cracked</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>わりあい</yomi>
+		<kaki>割合</kaki>
+		<meaning>ratio, percentage</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>わりびき</yomi>
+		<kaki>割引</kaki>
+		<meaning>discount</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>…ばい</yomi>
+		<kaki>．．．倍</kaki>
+		<meaning>...times</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねだん</yomi>
+		<kaki>値段</kaki>
+		<meaning>price</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねあげ</yomi>
+		<kaki>値上げ</kaki>
+		<meaning>price increase</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねさげ</yomi>
+		<kaki>値下げ</kaki>
+		<meaning>price reduction</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうひん</yomi>
+		<kaki>商品</kaki>
+		<meaning>goods</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうてん</yomi>
+		<kaki>商店</kaki>
+		<meaning>shop</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうにん</yomi>
+		<kaki>商人</kaki>
+		<meaning>merchant</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうてんがい</yomi>
+		<kaki>商店街</kaki>
+		<meaning>Shopping street</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>してん</yomi>
+		<kaki>支店</kaki>
+		<meaning>branch(office, store)</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほんてん</yomi>
+		<kaki>本店</kaki>
+		<meaning>main branch of store</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ししゃ</yomi>
+		<kaki>支社</kaki>
+		<meaning>branch store</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほんしゃ</yomi>
+		<kaki>本社</kaki>
+		<meaning>head office</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はらう</yomi>
+		<kaki>払う</kaki>
+		<meaning>pay, sweep away</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しはらい</yomi>
+		<kaki>支払い</kaki>
+		<meaning>payment</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はいぶつ</yomi>
+		<kaki>廃物</kaki>
+		<meaning>Waste</meaning>
+		<week>4</week>
+		<day>2</day>
+	</lesson>
+	<!-- 第４週２日の終わり -->
+	<!-- 第４週３日の始め  -->
+<lesson no="">
+		<yomi>べいこく</yomi>
+		<kaki>米国</kaki>
+		<meaning>USA</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こめ</yomi>
+		<kaki>米</kaki>
+		<meaning>rice</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にちべい</yomi>
+		<kaki>日米</kaki>
+		<meaning>USA and Japan</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうきゅう</yomi>
+		<kaki>高級</kaki>
+		<meaning>high class,grade</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょきゅう</yomi>
+		<kaki>初級</kaki>
+		<meaning>beginner level</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちゅうきゅう</yomi>
+		<kaki>中級</kaki>
+		<meaning>intermediate level</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じょうきゅう</yomi>
+		<kaki>上級</kaki>
+		<meaning>advanced level</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ざんぎょう</yomi>
+		<kaki>残業</kaki>
+		<meaning>overtime</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>のこり</yomi>
+		<kaki>残り</kaki>
+		<meaning>remainder</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>のこる</yomi>
+		<kaki>残る</kaki>
+		<meaning>remain, be left behind</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>のこす</yomi>
+		<kaki>残す</kaki>
+		<meaning>leave, leave behind</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おおがた</yomi>
+		<kaki>大型</kaki>
+		<meaning>large, jumbo size</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こがた</yomi>
+		<kaki>小型</kaki>
+		<meaning>small size</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんがた</yomi>
+		<kaki>新型</kaki>
+		<meaning>new model</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうひぜい</yomi>
+		<kaki>消費税</kaki>
+		<meaning>consumption tax</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぜいきん</yomi>
+		<kaki>税金</kaki>
+		<meaning>a tax</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こむ</yomi>
+		<kaki>込む</kaki>
+		<meaning>congested, crowded</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぜいこみ</yomi>
+		<kaki>税込</kaki>
+		<meaning>tax included</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+		<lesson no="">
+		<yomi>ふりこむ</yomi>
+		<kaki>振り込む</kaki>
+		<meaning>transfer money to person's account</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とびこむ</yomi>
+		<kaki>飛び込む</kaki>
+		<meaning>jump in</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かかく</yomi>
+		<kaki>価格</kaki>
+		<meaning>a price</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ていか</yomi>
+		<kaki>定価</kaki>
+		<meaning>fixed price</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+		<lesson no="">
+		<yomi>ごうかく</yomi>
+		<kaki>合格</kaki>
+		<meaning>pass an exam</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かくやす</yomi>
+		<kaki>格安</kaki>
+		<meaning>bargain</meaning>
+		<week>4</week>
+		<day>3</day>
+	</lesson>
+	<!-- 第４週３日の終わり -->
+	<!-- 第４週４日の始め  -->
+	<lesson no="">
+		<yomi>もうしこむ</yomi>
+		<kaki>申し込む</kaki>
+		<meaning>apply, purpose</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もうしこみしょ</yomi>
+		<kaki>申込書</kaki>
+		<meaning>application form</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんこく</yomi>
+		<kaki>申告</kaki>
+		<meaning>declaration</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんせい</yomi>
+		<kaki>申請</kaki>
+		<meaning>application</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もうす</yomi>
+		<kaki>申す</kaki>
+		<meaning>say(humble form)</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もうしあげる</yomi>
+		<kaki>申し上げる</kaki>
+		<meaning>say(very humble form)</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きにゅう</yomi>
+		<kaki>記入</kaki>
+		<meaning>entry</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にっき</yomi>
+		<kaki>日記</kaki>
+		<meaning>diary, journal</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きごう</yomi>
+		<kaki>記号</kaki>
+		<meaning>signal, symbol</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きじ</yomi>
+		<kaki>記事</kaki>
+		<meaning>article</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しるす</yomi>
+		<kaki>記す</kaki>
+		<meaning>write</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>れい</yomi>
+		<kaki>例</kaki>
+		<meaning>example</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たとえば</yomi>
+		<kaki>例えば</kaki>
+		<meaning>example</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>れいがい</yomi>
+		<kaki>例外</kaki>
+		<meaning>exception</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねんれい</yomi>
+		<kaki>年齢</kaki>
+		<meaning>age</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうれい</yomi>
+		<kaki>高齢</kaki>
+		<meaning>old age</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～さい</yomi>
+		<kaki>～歳</kaki>
+		<meaning>year old</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にじゅっさい、はたち</yomi>
+		<kaki>に十歳、二十歳</kaki>
+		<meaning>20 years old</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいべつ</yomi>
+		<kaki>性別</kaki>
+		<meaning>sex, gender</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいかく</yomi>
+		<kaki>性格</kaki>
+		<meaning>personality</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じょせい</yomi>
+		<kaki>女性</kaki>
+		<meaning>woman</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>だんせい</yomi>
+		<kaki>男性</kaki>
+		<meaning>man</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>れんきゅう</yomi>
+		<kaki>連休</kaki>
+		<meaning>consecutive holidays</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つれていく</yomi>
+		<kaki>連れて行く</kaki>
+		<meaning>take someone to</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つれてくる</yomi>
+		<kaki>連れて来る</kaki>
+		<meaning>bring someone to</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>れんらく</yomi>
+		<kaki>連絡</kaki>
+		<meaning>contact, connection</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にちじ</yomi>
+		<kaki>日時</kaki>
+		<meaning>date and time</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひづけ</yomi>
+		<kaki>日付</kaki>
+		<meaning>date</meaning>
+		<week>4</week>
+		<day>4</day>
+	</lesson>
+	<!-- 第４週４日の終わり -->
+	<!-- 第４週５日の始め  -->
+	<lesson no="1">
+		<yomi>とどける</yomi>
+		<kaki>届ける</kaki>
+		<meaning>deliver</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="2">
+		<yomi>とどく</yomi>
+		<kaki>届く</kaki>
+		<meaning>arrive</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="3">
+		<yomi>じたく</yomi>
+		<kaki>自宅</kaki>
+		<meaning>one's house, home</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おたく</yomi>
+		<kaki>お宅</kaki>
+		<meaning>house,home</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たくはい</yomi>
+		<kaki>宅配</kaki>
+		<meaning>home delivery</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はいたつ</yomi>
+		<kaki>配達</kaki>
+		<meaning>delivery</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はいそうりょう</yomi>
+		<kaki>配送料</kaki>
+		<meaning>delivery charge</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんぱい</yomi>
+		<kaki>心配</kaki>
+		<meaning>worry</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くばる</yomi>
+		<kaki>配る</kaki>
+		<meaning>distribute</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きぼう</yomi>
+		<kaki>希望</kaki>
+		<meaning>hope</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しつぼう</yomi>
+		<kaki>失望</kaki>
+		<meaning>loss of hope</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>のぞむ</yomi>
+		<kaki>望む</kaki>
+		<meaning>want, hope for</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にゅうか</yomi>
+		<kaki>入荷</kaki>
+		<meaning>receipt(of goods)</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅっか</yomi>
+		<kaki>出荷</kaki>
+		<meaning>shipment</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にもつ</yomi>
+		<kaki>荷物</kaki>
+		<meaning>luggage</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>てにもつ</yomi>
+		<kaki>手荷物</kaki>
+		<meaning>hand luggage</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうかん</yomi>
+		<kaki>交換</kaki>
+		<meaning>exchange</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>のりかえ</yomi>
+		<kaki>乗り換え</kaki>
+		<meaning>changing trains</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>だいきんひきかえ/だいびき</yomi>
+		<kaki>代金引換　/　代引き</kaki>
+		<meaning>cash on delivery</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひたい</yomi>
+		<kaki>額</kaki>
+		<meaning>forehead</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きんがく</yomi>
+		<kaki>金額</kaki>
+		<meaning>amount, sum</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はんがく</yomi>
+		<kaki>半額</kaki>
+		<meaning>half price</meaning>
+		<week>4</week>
+		<day>5</day>
+	</lesson>
+	<!-- 第４週５日の終わり -->
+	<!-- 第４週６日の始め  -->
+	<lesson no="">
+		<yomi>ふざい</yomi>
+		<kaki>不在</kaki>
+		<meaning>absence</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>げんざい</yomi>
+		<kaki>現在</kaki>
+		<meaning>present(time)</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ある</yomi>
+		<kaki>在る</kaki>
+		<meaning>exist </meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たいざいきかん</yomi>
+		<kaki>滞在期間</kaki>
+		<meaning>length of stay </meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とる</yomi>
+		<kaki>取る</kaki>
+		<meaning>take</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うけとる</yomi>
+		<kaki>受け取る</kaki>
+		<meaning>receive, take</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うけとりにん</yomi>
+		<kaki>受取人</kaki>
+		<meaning>a recipient</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅとく</yomi>
+		<kaki>取得</kaki>
+		<meaning>get</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>よきん</yomi>
+		<kaki>預金</kaki>
+		<meaning>money deposit</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あずける</yomi>
+		<kaki>預ける</kaki>
+		<meaning>entrust</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いるい</yomi>
+		<kaki>衣類</kaki>
+		<meaning>clothing, garments</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いふく</yomi>
+		<kaki>衣服</kaki>
+		<meaning>clothes, dress</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さんか</yomi>
+		<kaki>参加</kaki>
+		<meaning>participation</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さんこうしょ</yomi>
+		<kaki>参考書</kaki>
+		<meaning>reference book</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まいる</yomi>
+		<kaki>参る</kaki>
+		<meaning>go/come(humble form)</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まいりにいく</yomi>
+		<kaki>参りに行く</kaki>
+		<meaning>go to pagoda</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ころも</yomi>
+		<kaki>衣</kaki>
+		<meaning>clothes</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>A また B</yomi>
+		<kaki>A又B</kaki>
+		<meaning>A or B</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いしょくじゅう</yomi>
+		<kaki>衣食住</kaki>
+		<meaning>Necessities of life</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じょうたつ</yomi>
+		<kaki>上達</kaki>
+		<meaning>progress, improvement</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そくたつ</yomi>
+		<kaki>速達</kaki>
+		<meaning>special delivery</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ともだち</yomi>
+		<kaki>友達</kaki>
+		<meaning>friend</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つうきん</yomi>
+		<kaki>通勤</kaki>
+		<meaning>commuting to work</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つとめる</yomi>
+		<kaki>勤める</kaki>
+		<meaning>work, be employed</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅっきんする</yomi>
+		<kaki>出勤する</kaki>
+		<meaning>go to work</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けいたいでんわ</yomi>
+		<kaki>携帯電話</kaki>
+		<meaning>cell phone</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じかんたい</yomi>
+		<kaki>時間帯</kaki>
+		<meaning>time zone</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おび　をしめる</yomi>
+		<kaki>帯</kaki>
+		<meaning>belt</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もちかえり</yomi>
+		<kaki>持ち帰り</kaki>
+		<meaning>take away (parcel)</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はか</yomi>
+		<kaki>墓</kaki>
+		<meaning>grave</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はかまいり</yomi>
+		<kaki>墓参り</kaki>
+		<meaning>visit to the grave</meaning>
+		<week>4</week>
+		<day>6</day>
+	</lesson>
+	<!-- 第４週６日の終わり -->
+	<!-- 第４週extraの初め -->
+	<lesson no="">
+		<yomi>ほそい</yomi>
+		<kaki>細い</kaki>
+		<meaning>fine, thin</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こまかい</yomi>
+		<kaki>細かい</kaki>
+		<meaning>fine, small</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>	<lesson no="">
+		<yomi>めいさい</yomi>
+		<kaki>明細</kaki>
+		<meaning>item</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>と</yomi>
+		<kaki>戸</kaki>
+		<meaning>door</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あまど</yomi>
+		<kaki>雨戸</kaki>
+		<meaning>sliding storm door</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とだな</yomi>
+		<kaki>戸棚</kaki>
+		<meaning>closet, cupboard</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>びわこ</yomi>
+		<kaki>びわ湖</kaki>
+		<meaning>Lake Biwa</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>みずうみ</yomi>
+		<kaki>湖</kaki>
+		<meaning>a lake</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふうせん</yomi>
+		<kaki>風船</kaki>
+		<meaning>a balloon</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふね</yomi>
+		<kaki>船</kaki>
+		<meaning>a boat/ship</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんちょう</yomi>
+		<kaki>船長</kaki>
+		<meaning>captain</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふなびん</yomi>
+		<kaki>船便</kaki>
+		<meaning>surface, sea mail</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かくど</yomi>
+		<kaki>角度</kaki>
+		<meaning>angle</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さんかくけい</yomi>
+		<kaki>三角形</kaki>
+		<meaning>triangle</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しかくい</yomi>
+		<kaki>四角い</kaki>
+		<meaning>square, four-cornered</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かど</yomi>
+		<kaki>角</kaki>
+		<meaning>a corner</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おっと</yomi>
+		<kaki>夫</kaki>
+		<meaning>husband</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くろう</yomi>
+		<kaki>苦労</kaki>
+		<meaning>大変</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にがい</yomi>
+		<kaki>苦い</kaki>
+		<meaning>bitter</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+		<lesson no="">
+		<yomi>くるしい</yomi>
+		<kaki>苦しい</kaki>
+		<meaning>distressful, trying</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にがてな</yomi>
+		<kaki>苦手な</kaki>
+		<meaning>a weak point</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+		<lesson no="">
+		<yomi>なかば</yomi>
+		<kaki>半ば</kaki>
+		<meaning>half</meaning>
+		<week>4</week>
+		<day>7</day>
+	</lesson>
+	<!-- 第４週extraの終わり -->
+	<!-- 第５週日の始め  -->
+	<lesson no="">
+		<yomi>おれい</yomi>
+		<kaki>お礼</kaki>
+		<meaning>thanks</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とりいそぎ</yomi>
+		<kaki>取り急ぎ</kaki>
+		<meaning>hurry</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うかがう</yomi>
+		<kaki>伺う</kaki>
+		<meaning>visit, ask(humble)</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きざむ</yomi>
+		<kaki>刻む</kaki>
+		<meaning>cut fine, chop up</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちこく</yomi>
+		<kaki>遅刻</kaki>
+		<meaning>lateness</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+		<lesson no="">
+		<yomi>おそい</yomi>
+		<kaki>遅い</kaki>
+		<meaning>slow</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おくれる</yomi>
+		<kaki>遅れる</kaki>
+		<meaning>be late</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しつれいな</yomi>
+		<kaki>失礼な</kaki>
+		<meaning>rudeness</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しつれいする</yomi>
+		<kaki>失礼する</kaki>
+		<meaning>be excused</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しっぱい</yomi>
+		<kaki>失敗</kaki>
+		<meaning>failure, mistake</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やぶれる</yomi>
+		<kaki>敗れる</kaki>
+		<meaning>lose</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あせ</yomi>
+		<kaki>汗</kaki>
+		<meaning>sweat</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あせをかく</yomi>
+		<kaki>汗をかく</kaki>
+		<meaning>sweat</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ざんねんな</yomi>
+		<kaki>残念な</kaki>
+		<meaning>regret, disappointment</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きねん</yomi>
+		<kaki>記念</kaki>
+		<meaning>Memorial, commemoration</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+		<lesson no="">
+		<yomi>なみだ</yomi>
+		<kaki>涙</kaki>
+		<meaning>tears</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なみだをながす</yomi>
+		<kaki>涙を流す</kaki>
+		<meaning>weep</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+		<lesson no="">
+		<yomi>わらう</yomi>
+		<kaki>笑う</kaki>
+		<meaning>laugh, smile</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>わらい</yomi>
+		<kaki>笑い</kaki>
+		<meaning>laughter</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>えがお</yomi>
+		<kaki>笑顔</kaki>
+		<meaning>smile,smiling face</meaning>
+		<week>5</week>
+		<day>1</day>
+	</lesson>
+<!-- 第５週１日の終わり -->
+<!-- 第５週２日の始め  -->
+	<lesson no="">
+		<yomi>ちょうし</yomi>
+		<kaki>調子</kaki>
+		<meaning>way,manner,condition</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きょうちょう</yomi>
+		<kaki>強調</kaki>
+		<meaning>emphasis, stress</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しらべる</yomi>
+		<kaki>調べる</kaki>
+		<meaning>investigate</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たいちょうふりょう</yomi>
+		<kaki>体調不良</kaki>
+		<meaning>Poor health</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちょうさ</yomi>
+		<kaki>調査</kaki>
+		<meaning>investigation, inquiry</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+		<lesson no="">
+		<yomi>いどう</yomi>
+		<kaki>移動</kaki>
+		<meaning>movement, transfer</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+		<lesson no="">
+		<yomi>うつる</yomi>
+		<kaki>移る</kaki>
+		<meaning>move, shift</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うつす</yomi>
+		<kaki>移す</kaki>
+		<meaning>move, shift(something)</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こんなん</yomi>
+		<kaki>困難</kaki>
+		<meaning>difficult</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なんもん</yomi>
+		<kaki>難問</kaki>
+		<meaning>difficult problem</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なんみん</yomi>
+		<kaki>難民</kaki>
+		<meaning>refugees</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むずかしい</yomi>
+		<kaki>難しい</kaki>
+		<meaning>difficult</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんたん</yomi>
+		<kaki>簡単</kaki>
+		<meaning>easy</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たんご</yomi>
+		<kaki>単語</kaki>
+		<meaning>a word, vocabulary</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たんい</yomi>
+		<kaki>単位</kaki>
+		<meaning>a unit, credit</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんじる</yomi>
+		<kaki>感じる</kaki>
+		<meaning>feel</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんどう</yomi>
+		<kaki>感動</kaki>
+		<meaning>inspiration</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんそう</yomi>
+		<kaki>感想</kaki>
+		<meaning>impressions, thoughts</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>よそう</yomi>
+		<kaki>予想</kaki>
+		<meaning>anticipation, forecast</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そうぞうする</yomi>
+		<kaki>想像する</kaki>
+		<meaning>imagine</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おもう</yomi>
+		<kaki>想う</kaki>
+		<meaning>think</meaning>
+		<week>5</week>
+		<day>2</day>
+	</lesson>
+<!-- 第５週２日の終わり -->
+<!-- 第５週３日の始め  -->
+	<lesson no="">
+		<yomi>れんしゅう</yomi>
+		<kaki>練習</kaki>
+		<meaning>practice, training</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さいきん</yomi>
+		<kaki>最近</kaki>
+		<meaning>recently</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さいしょ</yomi>
+		<kaki>最初</kaki>
+		<meaning>the first, beginning</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さいご</yomi>
+		<kaki>最後</kaki>
+		<meaning>the last, end</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もっとも</yomi>
+		<kaki>最も</kaki>
+		<meaning>most</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>てきとうな</yomi>
+		<kaki>適当な</kaki>
+		<meaning>appropriate, reasonable</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいてき</yomi>
+		<kaki>快適な</kaki>
+		<meaning>comfortable</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんきょ</yomi>
+		<kaki>選挙</kaki>
+		<meaning>an election</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんしゅ</yomi>
+		<kaki>選手</kaki>
+		<meaning>a player, an athlete</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>えらぶ</yomi>
+		<kaki>選ぶ</kaki>
+		<meaning>choose</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんたくします</yomi>
+		<kaki>選択します</kaki>
+		<meaning>select</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちがう</yomi>
+		<kaki>違う</kaki>
+		<meaning>different, wrong</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まちがい</yomi>
+		<kaki>間違い</kaki>
+		<meaning>mistake</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まちがえる</yomi>
+		<kaki>間違う/間違える</kaki>
+		<meaning>make a mistake</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちょくせん</yomi>
+		<kaki>直線</kaki>
+		<meaning>a straight line</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちょくせつ</yomi>
+		<kaki>直接</kaki>
+		<meaning>directly</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なおる</yomi>
+		<kaki>直る</kaki>
+		<meaning>be repaired</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なおす</yomi>
+		<kaki>直す</kaki>
+		<meaning>fix</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふくしゅう</yomi>
+		<kaki>復習</kaki>
+		<meaning>a review</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おうふく</yomi>
+		<kaki>往復</kaki>
+		<meaning>a round trip</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいふく</yomi>
+		<kaki>回復</kaki>
+		<meaning>recovery,recuperation</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じしょ</yomi>
+		<kaki>辞書</kaki>
+		<meaning>dictionary</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やめる</yomi>
+		<kaki>辞める</kaki>
+		<meaning>resign, retire</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅくだい</yomi>
+		<kaki>宿題</kaki>
+		<meaning>homework</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>げしゅく</yomi>
+		<kaki>下宿</kaki>
+		<meaning>lodgings</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やど</yomi>
+		<kaki>宿</kaki>
+		<meaning>an inn, a hotel</meaning>
+		<week>5</week>
+		<day>3</day>
+	</lesson>
+<!-- 第５週３日の終わり -->
+<!-- 第５週４日の始め  -->
+	<lesson no="">
+		<yomi>さくじつ/きのう</yomi>
+		<kaki>昨日</kaki>
+		<meaning>yesterday</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さくや</yomi>
+		<kaki>昨夜</kaki>
+		<meaning>last night</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さくねん</yomi>
+		<kaki>昨年</kaki>
+		<meaning>last year</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>〇〇くん</yomi>
+		<kaki>〇〇君</kaki>
+		<meaning>ငယ္တဲ့သူေတြကိုေခၚ</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きみ</yomi>
+		<kaki>君</kaki>
+		<meaning>you</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けっこうな</yomi>
+		<kaki>結構な</kaki>
+		<meaning>ၾကီးက်ယ္ခန္းနား။ ေကာင္းမြန္</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いいえ、けっこうです</yomi>
+		<kaki>いいえ、結構です</kaki>
+		<meaning>no,thank you</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けっきょく</yomi>
+		<kaki>結局</kaki>
+		<meaning>after all</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むすぶ</yomi>
+		<kaki>結ぶ</kaki>
+		<meaning>tie, connect, conclude</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けっこん</yomi>
+		<kaki>結婚</kaki>
+		<meaning>marriage</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こにゃくく</yomi>
+		<kaki>婚約</kaki>
+		<meaning>engagement</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんこんりょこう</yomi>
+		<kaki>新婚旅行</kaki>
+		<meaning>honeymoon</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅくじつ</yomi>
+		<kaki>祝日</kaki>
+		<meaning>a national holiday, festival day</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いわう</yomi>
+		<kaki>祝う</kaki>
+		<meaning>celebrate, congratulate</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おいわい</yomi>
+		<kaki>お祝い</kaki>
+		<meaning>celebration, congratulation</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きょく</yomi>
+		<kaki>曲</kaki>
+		<meaning>piece of music</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きょくせん</yomi>
+		<kaki>曲線</kaki>
+		<meaning>curved line</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まがる</yomi>
+		<kaki>曲がる</kaki>
+		<meaning>blend, turn a corner</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まげる</yomi>
+		<kaki>曲げる</kaki>
+		<meaning>bend, twist</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おくさん</yomi>
+		<kaki>奥さん</kaki>
+		<meaning>another person's wife</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おく</yomi>
+		<kaki>奥</kaki>
+		<meaning>ျပတင္းေပါက္နဲ႕ အေ၀းဆံုးေနရာ အတြင္းပိုင္း</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねる</yomi>
+		<kaki>寝る</kaki>
+		<meaning>sleep</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねぼう</yomi>
+		<kaki>寝坊</kaki>
+		<meaning>late riser, sleepyhead</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひるね</yomi>
+		<kaki>昼寝</kaki>
+		<meaning>a nap</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんしつ</yomi>
+		<kaki>寝室</kaki>
+		<meaning>bedroom</meaning>
+		<week>5</week>
+		<day>4</day>
+	</lesson>
+<!-- 第５週４日の終わり -->
+<!-- 第５週５日の始め  -->
+	<lesson no="">
+		<yomi>ずつう</yomi>
+		<kaki>頭痛</kaki>
+		<meaning>headache</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふくつう</yomi>
+		<kaki>腹痛</kaki>
+		<meaning>stomachache</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いたい</yomi>
+		<kaki>痛い</kaki>
+		<meaning>pain</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねつ</yomi>
+		<kaki>熱</kaki>
+		<meaning>heat, fever</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あつい</yomi>
+		<kaki>熱い</kaki>
+		<meaning>hot</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねっしんな</yomi>
+		<kaki>熱心な</kaki>
+		<meaning>စိတ္အားထက္သန္ေသာ</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はいしゃ</yomi>
+		<kaki>歯医者</kaki>
+		<meaning>dentist</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むしば</yomi>
+		<kaki>虫歯</kaki>
+		<meaning>decayed tooth</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいじ</yomi>
+		<kaki>政治</kaki>
+		<meaning>politics, government</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ちりょう</yomi>
+		<kaki>治療</kaki>
+		<meaning>a treatment</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なおる</yomi>
+		<kaki>治る</kaki>
+		<meaning>heal up, be cured</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なおす</yomi>
+		<kaki>治す</kaki>
+		<meaning>cure</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きたない</yomi>
+		<kaki>汚い</kaki>
+		<meaning>dirty</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>よごれる</yomi>
+		<kaki>汚れる</kaki>
+		<meaning>become dirty</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ならぶ</yomi>
+		<kaki>並ぶ</kaki>
+		<meaning>stand in a line</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ならべる</yomi>
+		<kaki>並べる</kaki>
+		<meaning>line up, set up</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はならび</yomi>
+		<kaki>歯並び</kaki>
+		<meaning>alignment of you teeth</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たの</yomi>
+		<kaki>他の</kaki>
+		<meaning>other</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そのた</yomi>
+		<kaki>その他</kaki>
+		<meaning>besides, others</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほかの</yomi>
+		<kaki>他の</kaki>
+		<meaning>another</meaning>
+		<week>5</week>
+		<day>5</day>
+	</lesson>
+<!-- 第５週５日の終わり -->
+<!-- 第５週６日の始め  -->
+	<lesson no="">
+		<yomi>しんちょう</yomi>
+		<kaki>身長</kaki>
+		<meaning>height</meaning>
+		<week></week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>どくしん</yomi>
+		<kaki>独身</kaki>
+		<meaning>single, unmarried</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>みぶん</yomi>
+		<kaki>身分</kaki>
+		<meaning>social status</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さしみ</yomi>
+		<kaki>刺身</kaki>
+		<meaning>sashimi</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さす</yomi>
+		<kaki>刺す</kaki>
+		<meaning>stab(ဓားျဖင့္ထုိးသည္)</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>にほんしゅ</yomi>
+		<kaki>日本酒</kaki>
+		<meaning>sake</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>りょうりしゅ</yomi>
+		<kaki>料理酒</kaki>
+		<meaning>cooking sake</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おさけ</yomi>
+		<kaki>お酒</kaki>
+		<meaning>alcohol, liquor</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さかや</yomi>
+		<kaki>酒屋</kaki>
+		<meaning>liquor store</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こきゅう</yomi>
+		<kaki>呼吸</kaki>
+		<meaning>breathing</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すう</yomi>
+		<kaki>吸う</kaki>
+		<meaning>breathe</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょくよく</yomi>
+		<kaki>食欲</kaki>
+		<meaning>appetite</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いよく</yomi>
+		<kaki>意欲</kaki>
+		<meaning>will, motivatioin</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほしい</yomi>
+		<kaki>欲しい</kaki>
+		<meaning>want</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すいみん</yomi>
+		<kaki>睡眠</kaki>
+		<meaning>a sleep</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねむり</yomi>
+		<kaki>眠り</kaki>
+		<meaning>sleepy</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねむる</yomi>
+		<kaki>眠る</kaki>
+		<meaning>sleep</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つかれる</yomi>
+		<kaki>疲れる</kaki>
+		<meaning>get tired, become exhausted</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いき</yomi>
+		<kaki>息</kaki>
+		<meaning>breath</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むすこ</yomi>
+		<kaki>息子</kaki>
+		<meaning>son</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いきぎれ</yomi>
+		<kaki>息切れ</kaki>
+		<meaning>shortness of breath</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こきゅう</yomi>
+		<kaki>呼吸</kaki>
+		<meaning>breathing, respiration</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>よぶ</yomi>
+		<kaki>呼ぶ</kaki>
+		<meaning>call</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もんしんひょう</yomi>
+		<kaki>問診票</kaki>
+		<meaning>interview sheet</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けんこうしんだん</yomi>
+		<kaki>健康診断</kaki>
+		<meaning>medical checkup</meaning>
+		<week>5</week>
+		<day>6</day>
+	</lesson>
+<!-- 第５週６日の終わり -->
+<!-- 第５週extraの始め  -->
+	<lesson no="">
+		<yomi>あつい</yomi>
+		<kaki>厚い</kaki>
+		<meaning>thick</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なく</yomi>
+		<kaki>泣く</kaki>
+		<meaning>cry, weep</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なきごえ</yomi>
+		<kaki>泣き声</kaki>
+		<meaning>crying sound</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なく</yomi>
+		<kaki>鳴く</kaki>
+		<meaning>ျမည္သည္(သက္ရွိ)</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なる</yomi>
+		<kaki>鳴る</kaki>
+		<meaning>ျမည္သည္ (သက္မဲ့)</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さいしょ</yomi>
+		<kaki>最初</kaki>
+		<meaning>first,beginning</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょきゅう</yomi>
+		<kaki>初級</kaki>
+		<meaning>beginning level</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はじめ</yomi>
+		<kaki>初め</kaki>
+		<meaning>the beginning</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はじめて</yomi>
+		<kaki>初めて</kaki>
+		<meaning>for the first time</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅくはく</yomi>
+		<kaki>宿泊</kaki>
+		<meaning>တည္းခိုသည္</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いっぱく</yomi>
+		<kaki>一泊</kaki>
+		<meaning>တညအိပ္</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とめる</yomi>
+		<kaki>泊める</kaki>
+		<meaning>တည္းခုိခြင့္ျပဳသည္</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とまる</yomi>
+		<kaki>泊まる</kaki>
+		<meaning>တည္းသည္</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうよう</yomi>
+		<kaki>紅葉</kaki>
+		<meaning>autumn leaves</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>は</yomi>
+		<kaki>葉</kaki>
+		<meaning>leaf</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ことば</yomi>
+		<kaki>言葉</kaki>
+		<meaning>word, language</meaning>
+		<week>5</week>
+		<day>7</day>
+	</lesson>
+<!-- 第５週extraの終わり -->
+<!-- 第６週日の始め  -->
+	<lesson no="">
+		<yomi>よぼう</yomi>
+		<kaki>予防</kaki>
+		<meaning>forecast</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ほうこく</yomi>
+		<kaki>報告</kaki>
+		<meaning>report</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はれる</yomi>
+		<kaki>晴れる</kaki>
+		<meaning>sunny</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はれ</yomi>
+		<kaki>晴れ</kaki>
+		<meaning>fine weather</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くも</yomi>
+		<kaki>雲</kaki>
+		<meaning>clouds</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふく</yomi>
+		<kaki>吹く</kaki>
+		<meaning>blow</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>だんぼう</yomi>
+		<kaki>暖房</kaki>
+		<meaning>heater</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あたたかい</yomi>
+		<kaki>暖かい</kaki>
+		<meaning>warm</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しせつ</yomi>
+		<kaki>新雪</kaki>
+		<meaning>fresh snow</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はつゆき</yomi>
+		<kaki>初雪</kaki>
+		<meaning>first snow</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じしん</yomi>
+		<kaki>地震</kaki>
+		<meaning>earthquake</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんど</yomi>
+		<kaki>震度</kaki>
+		<meaning>ငလွ်င္ျပင္းအား</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふるえる</yomi>
+		<kaki>震える</kaki>
+		<meaning>တုန္ခါသည္</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>でんぱ</yomi>
+		<kaki>電波</kaki>
+		<meaning>radio wave</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なみ</yomi>
+		<kaki>波</kaki>
+		<meaning>a wave</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>つなみ</yomi>
+		<kaki>津波</kaki>
+		<meaning>tsunami</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんこく</yomi>
+		<kaki>申告</kaki>
+		<meaning>notification</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けいこく</yomi>
+		<kaki>警告</kaki>
+		<meaning>warning</meaning>
+		<week>6</week>
+		<day>1</day>
+	</lesson>
+<!-- 第６週１日の終わり -->
+<!-- 第６週２日の始め  -->
+	<lesson no="">
+		<yomi>ようきゅう</yomi>
+		<kaki>要求</kaki>
+		<meaning>a demand, a request</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きゅうじん</yomi>
+		<kaki>求人</kaki>
+		<meaning>Help Wanted</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいきゅうしょ</yomi>
+		<kaki>請求書</kaki>
+		<meaning>bill, invoice</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もとめる</yomi>
+		<kaki>求める</kaki>
+		<meaning>demand, request</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+		<lesson no="">
+		<yomi>ぼしゅう</yomi>
+		<kaki>募集</kaki>
+		<meaning>recruitment</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょくば</yomi>
+		<kaki>職場</kaki>
+		<meaning>worksplace</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>てんしょく</yomi>
+		<kaki>転職</kaki>
+		<meaning>a change of job</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょくぎょう</yomi>
+		<kaki>職業</kaki>
+		<meaning>occuption, profession</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょくいん</yomi>
+		<kaki>職員</kaki>
+		<meaning>employees</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>びよういん</yomi>
+		<kaki>美容院</kaki>
+		<meaning>hairdresser's</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ないよう</yomi>
+		<kaki>内容</kaki>
+		<meaning>contents, substance</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+		<lesson no="">
+		<yomi>ぎじゅつ</yomi>
+		<kaki>技術</kaki>
+		<meaning>technique, technology</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+		<lesson no="">
+		<yomi>ぎじゅつしゃ</yomi>
+		<kaki>技術者</kaki>
+		<meaning>technician</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いっぱん</yomi>
+		<kaki>一般</kaki>
+		<meaning>general, average</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いっぱんに</yomi>
+		<kaki>一般に</kaki>
+		<meaning>in general</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+		<lesson no="">
+		<yomi>じむ</yomi>
+		<kaki>事務</kaki>
+		<meaning>office work</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうむいん</yomi>
+		<kaki>公務員</kaki>
+		<meaning>a civil servant, government employee</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じむしょ</yomi>
+		<kaki>事務所</kaki>
+		<meaning>an office</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぜいむしょ</yomi>
+		<kaki>税務署</kaki>
+		<meaning>tax office</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>だいいちか</yomi>
+		<kaki>第一課</kaki>
+		<meaning>Lesson one</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かちょう</yomi>
+		<kaki>課長</kaki>
+		<meaning>section chief</meaning>
+		<week>6</week>
+		<day>2</day>
+	</lesson>
+<!-- 第６週２日の終わり -->
+<!-- 第６週３日の始め  -->
+	<lesson no="">
+		<yomi>ちきゅう</yomi>
+		<kaki>地球</kaki>
+		<meaning>earth</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やきゅう</yomi>
+		<kaki>野球</kaki>
+		<meaning>baseball</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>でんきゅう</yomi>
+		<kaki>電球</kaki>
+		<meaning>light bulb</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けっして</yomi>
+		<kaki>決して</kaki>
+		<meaning>by no means</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けってい</yomi>
+		<kaki>決定</kaki>
+		<meaning>decision</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きめる</yomi>
+		<kaki>決める</kaki>
+		<meaning>decide(something)</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>きまる</yomi>
+		<kaki>決まる</kaki>
+		<meaning>be decided</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆうしょう</yomi>
+		<kaki>優勝</kaki>
+		<meaning>victory</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かつ</yomi>
+		<kaki>勝つ</kaki>
+		<meaning>win</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けっしょう</yomi>
+		<kaki>決勝</kaki>
+		<meaning>the finals</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>１たい２</yomi>
+		<kaki>１対２</kaki>
+		<meaning>one to two</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はんたい</yomi>
+		<kaki>反対</kaki>
+		<meaning>the opposite</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ながれる</yomi>
+		<kaki>流れる</kaki>
+		<meaning>flow</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ながす</yomi>
+		<kaki>流す</kaki>
+		<meaning>let flow</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうぶ</yomi>
+		<kaki>勝負</kaki>
+		<meaning>match, game</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まける</yomi>
+		<kaki>負ける</kaki>
+		<meaning>lose</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とうしゅ</yomi>
+		<kaki>投手</kaki>
+		<meaning>pitcher</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なげる</yomi>
+		<kaki>投げる</kaki>
+		<meaning>throw</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けっか</yomi>
+		<kaki>結果</kaki>
+		<meaning>result</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くだもの</yomi>
+		<kaki>果物</kaki>
+		<meaning>fruit</meaning>
+		<week>6</week>
+		<day>3</day>
+	</lesson>
+<!-- 第６週３日の終わり -->
+<!-- 第６週４日の始め  -->
+	<lesson no="">
+		<yomi>せんご</yomi>
+		<kaki>戦後</kaki>
+		<meaning>postwar period</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんそう</yomi>
+		<kaki>戦争</kaki>
+		<meaning>war</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たたかう</yomi>
+		<kaki>戦う</kaki>
+		<meaning>fight</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あらそう</yomi>
+		<kaki>争う</kaki>
+		<meaning>compete</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けいけん</yomi>
+		<kaki>経験</kaki>
+		<meaning>experience</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けいえい</yomi>
+		<kaki>経営</kaki>
+		<meaning>management</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けいざい</yomi>
+		<kaki>経済</kaki>
+		<meaning>economy</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>すむ</yomi>
+		<kaki>済む</kaki>
+		<meaning>finished, over</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいちょう</yomi>
+		<kaki>成長</kaki>
+		<meaning>growth</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんせい</yomi>
+		<kaki>完成</kaki>
+		<meaning>completion</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぼうえき</yomi>
+		<kaki>貿易</kaki>
+		<meaning>foreign trade</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>やさし</yomi>
+		<kaki>易し</kaki>
+		<meaning>easy, plain, simple</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆしゅつ</yomi>
+		<kaki>輸出</kaki>
+		<meaning>exportation</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆにゅう</yomi>
+		<kaki>輸入</kaki>
+		<meaning>importation</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ゆそう</yomi>
+		<kaki>輸送</kaki>
+		<meaning>transportation</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そうだん</yomi>
+		<kaki>相談</kaki>
+		<meaning>consulation</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しゅしょう</yomi>
+		<kaki>首相</kaki>
+		<meaning>prime minister</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あいて</yomi>
+		<kaki>相手</kaki>
+		<meaning>an opponent, a competitor</meaning>
+		<week>6</week>
+		<day>4</day>
+	</lesson>
+<!-- 第６週４日の終わり -->
+<!-- 第６週５日の始め  -->
+	<lesson no="">
+		<yomi>ぶんか</yomi>
+		<kaki>文化</kaki>
+		<meaning>culture</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かがく</yomi>
+		<kaki>化学</kaki>
+		<meaning>chemistry</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おけしょう</yomi>
+		<kaki>お化粧</kaki>
+		<meaning>makeup</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～か</yomi>
+		<kaki>～化</kaki>
+		<meaning>～changing</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しょうしか</yomi>
+		<kaki>少子化</kaki>
+		<meaning>decrease birthrate</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうれいか</yomi>
+		<kaki>高齢化</kaki>
+		<meaning>aging</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じゆうか</yomi>
+		<kaki>自由化</kaki>
+		<meaning>လြတ္လပ္ခြင့္ေပး</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くらべる</yomi>
+		<kaki>比べる</kaki>
+		<meaning>compare</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おばけ</yomi>
+		<kaki>お化け</kaki>
+		<meaning>ghost</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>げんりょう</yomi>
+		<kaki>原料</kaki>
+		<meaning>raw material</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>げにん</yomi>
+		<kaki>原因</kaki>
+		<meaning>a cause</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こくさいの</yomi>
+		<kaki>国際の</kaki>
+		<meaning>international</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こうさい</yomi>
+		<kaki>交際</kaki>
+		<meaning>association, company</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>～さい</yomi>
+		<kaki>～際</kaki>
+		<meaning>～時</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいぎ</yomi>
+		<kaki>会議</kaki>
+		<meaning>meeting</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぎいん</yomi>
+		<kaki>議員</kaki>
+		<meaning>member of assembly</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいかつ</yomi>
+		<kaki>生活</kaki>
+		<meaning>life, livelihood</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かつどう</yomi>
+		<kaki>活動</kaki>
+		<meaning>activity</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かっぱつな</yomi>
+		<kaki>活発な</kaki>
+		<meaning>active</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たいへんな</yomi>
+		<kaki>大変な</kaki>
+		<meaning>very, serious</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>へんか</yomi>
+		<kaki>変化</kaki>
+		<meaning>a change</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かわる</yomi>
+		<kaki>変わる</kaki>
+		<meaning>change</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かえる</yomi>
+		<kaki>変える</kaki>
+		<meaning>change something</meaning>
+		<week>6</week>
+		<day>5</day>
+	</lesson>
+<!-- 第６週５日の終わり -->
+<!-- 第６週６日の始め  -->
+	<lesson no="">
+		<yomi>せいじ</yomi>
+		<kaki>政治</kaki>
+		<meaning>politics</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいじか</yomi>
+		<kaki>政治家</kaki>
+		<meaning>politician</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せいふ</yomi>
+		<kaki>政府</kaki>
+		<meaning>government</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>とどうふけん</yomi>
+		<kaki>都道府県</kaki>
+		<meaning>prefectures</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいせい</yomi>
+		<kaki>改正</kaki>
+		<meaning>amendment ျပင္ဆင္ျခင္း</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいさつぐち</yomi>
+		<kaki>改札口</kaki>
+		<meaning>ticket gate</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あらためる</yomi>
+		<kaki>改める</kaki>
+		<meaning>change, check</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けんぽうかいせい</yomi>
+		<kaki>けんぽう改正</kaki>
+		<meaning>အေျခခံဥပေဒျပင္ဆင္ျခင္း</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひてい</yomi>
+		<kaki>否定</kaki>
+		<meaning>negation</meaning>
+		<week></week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひていてきな</yomi>
+		<kaki>否定的な</kaki>
+		<meaning>negative</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もくてき</yomi>
+		<kaki>目的</kaki>
+		<meaning>aim, purpose</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まと</yomi>
+		<kaki>的</kaki>
+		<meaning>target</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こくさいてきな</yomi>
+		<kaki>国際的な</kaki>
+		<meaning>international</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>こじんてきな</yomi>
+		<kaki>個人的な</kaki>
+		<meaning>personal</meaning>
+		<week></week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じっさいに</yomi>
+		<kaki>実際に</kaki>
+		<meaning>practically, actually</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じつは</yomi>
+		<kaki>実は</kaki>
+		<meaning>to tell the truth</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じっけん</yomi>
+		<kaki>実験</kaki>
+		<meaning>experiment</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しんじつ</yomi>
+		<kaki>真実</kaki>
+		<meaning>truth</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けってん</yomi>
+		<kaki>欠点</kaki>
+		<meaning>အားနည္းခ်က္</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>けっせき</yomi>
+		<kaki>欠席</kaki>
+		<meaning>absence</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かける</yomi>
+		<kaki>欠ける</kaki>
+		<meaning>chip, lack</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんもん</yomi>
+		<kaki>専門</kaki>
+		<meaning>specialty</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せんもんか</yomi>
+		<kaki>専門家</kaki>
+		<meaning>expert</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>や</yomi>
+		<kaki>矢</kaki>
+		<meaning>arrow</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi>まとや</yomi>
+		<kaki>的矢</kaki>
+		<meaning>ပစ္ျမွား</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+	<lesson no="">
+		<yomi></yomi>
+		<kaki>アマチュア</kaki>
+		<meaning>အေပ်ာ္တမ္းကစားသူ</meaning>
+		<week>6</week>
+		<day>6</day>
+	</lesson>
+<!-- 第６週６日の終わり -->
+<!-- 第６週extraの始め  -->
+	<lesson no="">
+		<yomi>しぼう</yomi>
+		<kaki>死亡</kaki>
+		<meaning>death</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>なくなる</yomi>
+		<kaki>亡くなる</kaki>
+		<meaning>die</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>たぼう</yomi>
+		<kaki>多忙な</kaki>
+		<meaning>busy</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>いそがしい</yomi>
+		<kaki>忙しい</kaki>
+		<meaning>busy</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぼうねんかい</yomi>
+		<kaki>忘年会</kaki>
+		<meaning>end year party</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>わすれる</yomi>
+		<kaki>忘れる</kaki>
+		<meaning>forget</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>わすれもの</yomi>
+		<kaki>忘れ物</kaki>
+		<meaning>thing left behind</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぶんかさい</yomi>
+		<kaki>文化祭</kaki>
+		<meaning>school festival</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>おまつり</yomi>
+		<kaki>お祭り</kaki>
+		<meaning>Festival</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くろう</yomi>
+		<kaki>苦労</kaki>
+		<meaning>troubles, hardships</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ろうどうしゃ</yomi>
+		<kaki>労働者</kaki>
+		<meaning>labourer</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>さんか</yomi>
+		<kaki>参加</kaki>
+		<meaning>participation</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ぞうか</yomi>
+		<kaki>増加</kaki>
+		<meaning>an increase</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>くわえる</yomi>
+		<kaki>加える</kaki>
+		<meaning>add to</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じょうほう</yomi>
+		<kaki>情報</kaki>
+		<meaning>information</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じじょう</yomi>
+		<kaki>事情</kaki>
+		<meaning>circumstance</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひょうじょう</yomi>
+		<kaki>表情</kaki>
+		<meaning>facial expression</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんじょう</yomi>
+		<kaki>感情</kaki>
+		<meaning>emotions</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+	<lesson no="">
+		<yomi>はんたい</yomi>
+		<kaki>反対</kaki>
+		<meaning>opposite</meaning>
+		<week>6</week>
+		<day>7</day>
+	</lesson>
+<!-- 第週extraの終わり -->
+
+
+
+</class>
