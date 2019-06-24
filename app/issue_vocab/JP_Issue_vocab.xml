@@ -60,6 +60,16 @@
 		<kaki>位置</kaki>
 		<meaning>position</meaning>
 	</lesson>
+	<lesson no="">
+		<yomi>こうぶん</yomi>
+		<kaki>構文</kaki>
+		<meaning>syntax</meaning>
+	</lesson>
+	<lesson no="">
+		<yomi>じょうけん</yomi>
+		<kaki>条件</kaki>
+		<meaning>condition</meaning>
+	</lesson>
 
 
 </class>
