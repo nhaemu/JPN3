@@ -3015,7 +3015,7 @@
 	<lesson no="">
 		<yomi>あたたかい</yomi>
 		<kaki>温かい</kaki>
-		<meaning>warm</meaning>
+		<meaning>warm (things)</meaning>
 		<week>2</week>
 		<day>3</day>
 	</lesson>
@@ -3399,4 +3399,288 @@
 	</lesson>
 
 	<!-- 第２週三日の終わり -->
+	<!-- 第２週四日の初め -->
+	<lesson no="">
+		<yomi>せってい</yomi>
+		<kaki>設定</kaki>
+		<meaning>setting</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せっけい</yomi>
+		<kaki>設計</kaki>
+		<meaning>design/plan</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せつび</yomi>
+		<kaki>設備</kaki>
+		<meaning>equipment, facilities</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かえる</yomi>
+		<kaki>換える</kaki>
+		<meaning>to replace, to exchange (他動詞)</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かわる</yomi>
+		<kaki>換わる</kaki>
+		<meaning>replace, exchange (自動詞)</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かんき</yomi>
+		<kaki>換気</kaki>
+		<meaning>ventilation, လေသန့်စင်</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>うんてんきりかえ</yomi>
+		<kaki>運転切換</kaki>
+		<meaning>change of mode of operation</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>のりかえ</yomi>
+		<kaki>乗り換え</kaki>
+		<meaning>changing trains</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むく</yomi>
+		<kaki>向く</kaki>
+		<meaning>to face, to turn toward, ဦးတည်ဘက်၊ ဦးတည်သည်</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ふうこう</yomi>
+		<kaki>風向</kaki>
+		<meaning>wind direction</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かぜのむき</yomi>
+		<kaki>風の向き</kaki>
+		<meaning>wind direction</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むこう</yomi>
+		<kaki>向こう</kaki>
+		<meaning>over there/ beyond, ကိုယ်သွားမည့်နေရာ၊ ကိုယ့်ရည်ရွယ်ချက်</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むかい</yomi>
+		<kaki>向かい</kaki>
+		<meaning>the opposite side</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むかう</yomi>
+		<kaki>向かう</kaki>
+		<meaning>to face, to go forwards, မျက်နှာချင်းဆိုင်</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>むける</yomi>
+		<kaki>向ける</kaki>
+		<meaning>to turn towards, to point, ရည်ရွယ် (~အတွက်ရည်ရွယ်သည်)</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ていし</yomi>
+		<kaki>停止</kaki>
+		<meaning>stopping of, とめる</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ていしゃ</yomi>
+		<kaki>停車</kaki>
+		<meaning>stop a vehicle</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ていでん</yomi>
+		<kaki>停電</kaki>
+		<meaning>electricity blackout</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あたたかい</yomi>
+		<kaki>暖かい</kaki>
+		<meaning>warm (weather, temperature)</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あたためる</yomi>
+		<kaki>暖める</kaki>
+		<meaning>to warm, to heat</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あたたまる</yomi>
+		<kaki>暖まる</kaki>
+		<meaning>to warm up, to get warm</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>だんぼう</yomi>
+		<kaki>暖房</kaki>
+		<meaning>heating, heater</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>れいぼう</yomi>
+		<kaki>冷房</kaki>
+		<meaning>cooling, cooler</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+
+	<lesson no="">
+		<yomi>おんだんな</yomi>
+		<kaki>温暖な</kaki>
+		<meaning>temperate, သင့်တင့်မျှတ/သင့်တင့်လျှောက်ပတ်</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>のぞく</yomi>
+		<kaki>除く</kaki>
+		<meaning>remove/exclude, ဖယ်ထုတ်</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>そうじ</yomi>
+		<kaki>掃除</kaki>
+		<meaning>cleaning</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>じょしつ</yomi>
+		<kaki>除湿</kaki>
+		<meaning>dehumidification [湿気を除く], စိုထိုင်းမှုကိုဖယ်ရှား</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あまる</yomi>
+		<kaki>余る</kaki>
+		<meaning>to remain, to be left over, ကြွင်းသည်</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>あまり</yomi>
+		<kaki>余り</kaki>
+		<meaning>remains, remainder, အကြွင်း</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しめる</yomi>
+		<kaki>湿る</kaki>
+		<meaning>become damp/moist, (Group 1 verb), စိုစွတ်</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しっけ</yomi>
+		<kaki>湿気</kaki>
+		<meaning>humidity/ moisture, စိုထိုင်းမှု</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>しつど</yomi>
+		<kaki>湿度</kaki>
+		<meaning>humidity, စိုထိုင်းဆ</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かいてきな</yomi>
+		<kaki>快適な</kaki>
+		<meaning>pleasant, comfortable</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>かていようでんきせいひん</yomi>
+		<kaki>家庭用電気製品</kaki>
+		<meaning>household use electronic devices</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>せっていおんど</yomi>
+		<kaki>設定温度</kaki>
+		<meaning>set temperature</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ねんじゅうむきゅう</yomi>
+		<kaki>年中無休</kaki>
+		<meaning>24/7</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひょうほん</yomi>
+		<kaki>標本</kaki>
+		<meaning>a specimem (နမူနာ)/sample</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>もくひょう</yomi>
+		<kaki>目標</kaki>
+		<meaning>a aim/objective</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひょうじゅん</yomi>
+		<kaki>標準</kaki>
+		<meaning>a standard, average (အများ/အားလုံးနဲ့သက်ဆိုင်)</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+	<lesson no="">
+		<yomi>ひょうじゅんご</yomi>
+		<kaki>標準語</kaki>
+		<meaning>commonly used language, အများသုံးစကား</meaning>
+		<week>2</week>
+		<day>4</day>
+	</lesson>
+
+	<!-- 第２週四日の終わり -->
 </class>
